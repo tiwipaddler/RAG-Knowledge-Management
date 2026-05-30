@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+
+# Vector database
+db/
+
+# Documents (keep company docs private)
+docs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
