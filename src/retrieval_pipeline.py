@@ -18,7 +18,7 @@ db = Chroma(
 )
 
 #Search for relevant documents
-query = "what in class activities can be used to teach price ceilings?"
+query = "What types of taxes are taught and how should they be taught?"
 
 #retriever = db.as_retriever(search_kwargs={"k": 5})
 
