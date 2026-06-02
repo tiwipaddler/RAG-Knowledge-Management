@@ -1,0 +1,552 @@
+--- CHUNK 1 (689 chars) ---
+ECONOMICS SECTION 14A MICROECONOMICS SECTION 8A
+
+ENRICHMENT MODULES
+
+MODULE 79/43: THE ECONOMICS OF INFORMATION!
+
+The purpose of this module is to learn how, when one party has better information than another, that markets fail.
+
+Student learning objectives:
+
+• The special problems posed by private information-situations in which some people know things that other people do not (also known as asymmetric information).
+
+• How information asymmetries can lead to the problem of adverse selection (otherwise known as the lemons problem).
+
+• How firms deal with the need for information, using screening and signaling.
+
+• How information asymmetries can lead to the problem of moral hazard.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 1, 'orig_elements': 'eJzNl19v2zYUxb8K56cOMDWJ/5m3LEuRAE1cJNlTVgSUeGVrtSVDpJNmxb77LiWnzVYHCAw4GGDA5pGvJPJ3z6F0+3UCS1hBG+8aPzkiE+FKnldQ0NK4iooqZ9RIYNRWrpA8h0KBnUzJZAXReRcd1nydVF3X+6Z1EcIwXrrHbhPvFtDMFxEVprnGmq380Pi4SGqRF6iuu6aNqe72VhibySlhucj4pyl5GnMrMpnGhRY8UzuEsQKVSXgMEVZpJh+bL7C8XrsKJn/jAQ8Rqth07V21dCHcrfuuxL/lmTGMpfuomyXExzWk2l8vPqZJNuEOvsTeVRGGxVm7PjZuORnm0s43bj5M+HYC7XySrr5G5a7drEroUS/SdSOeIdWenswuZxfnJ9fk+vTk5nx2SQpxTFC4mv14yBynazzdzU0Tl8Mk/gvL+5zJMjdUVrWnos4dddpoaipR4rcUVucHg6W4zFCShc5sYvE0NjorBjZS6YzvEoaKPWHZQrM3gHV5dX5ydnF6eUMuZr/9/uH0+lU8rFPcAbfUglNUgKyoNQhFY5saY41TjB2MBzMqM1OitclMWu7t2AiW5aNXCp7ZHcJYsR8Py406PI6RAdH2F8GPyM3ZKflumdl7cn75fnZ1cZyc89OrOKmyzG2lFJUagArNBS3BYuaVSkpXy1pydWhOxhSjb7Zjq2UmBiw2lyn1fhDGij056ULzw4O6WQBZb/p1F4B0NYmLJpBV5zdLIPgrdmQJrm/JonuYkocFtKRrsQAv+EgWLpASYoSeNG3d9SuX5oGncC1xbRcX0E/TKJKV6z9DDKR2zTJ7zvvS9T1W3cNNup0d3EtRYzLKmjpessRdUWu9obawHKRXwtSHy0tmTCamBHWdsRH8VlBb0MbwTO8UhpI9ySvO34D8ddx4XOgRcNPOSVf+mW7oHsLRqzxZWVCV4p7aUmoqOHD0JGiqDQdRVoWsisM9eHBZbFHYceWfBNyzRliFwe3N7FTGon19qdQb7Gd/bFjOGEn2DGuo8DQk3QICCCSZ1ZPyEZXmHlfyuf1oaOJm+BVQRss21YKEboWmhW6Nrv7cdg/J5u08jOYcjPp01HcEnUveuWXohr+ilQN+HldIsW+q55f6+V9W/tCEeJ7Wcken5CC1L1ROSwsGXQx16hRORWlLJ0UNzJQH7RSe2kAV4y76JDBhxjzHuFYvKGPRvp3CxRtstdtOOUOsz2P4GzMIpMJERpv7lOcxBf7YSSnwnb+HHrM/ILFhFuTd0BAPTYDvDZCKsCA11bb29fBN7UF43LVBF7h1O85omWtLua8rg68npbL+gPB5esQtmGSZHuFvBXwhGQQknL+kDEV7wpdCvl1MJPh102M2eMCkeGjiYmDWAgYF9sTzzpiSTUhxH6oeYAh+13oSmnnrljh6NVdlCuZl7qn0Bca/Z5riqkjKKlcZxw2+RRzS1OM+y/N8fPH8JuCz8hj2kqn0orlLGYr25Sqt/r+betX12AUL95fr/Qs8P/0D8mzrtg==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '01e953bdd491518b4d1bcad3c4541bf0'}
+============================================================
+
+--- CHUNK 2 (916 chars) ---
+Key Economic Concepts For This Module:
+
+• The model of competitive markets assumes that buyers and sellers have perfect information. This means that all parties know key pieces of information such as the market price and the quality of the product.
+
+• Whenever one party, either the buyer or the seller, is privy to better information than the other, it is a case of asymmetric information. This gives the party with better information an advantage in the transaction and creates a failure in the market.
+
+• Adverse selection is illustrated by the classic "lemons problem." Sellers know whether their product is of high or low quality. Buyers have no such information, so they assume that all products are of medium quality. When sellers of high quality products are offered prices below the value of their goods, they withdraw those goods from the market, leaving only poor quality products (the lemons) to be sold.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 1, 'orig_elements': 'eJy9lV2L3DYUhv+K8FUDY+Ov8UfumtBCaQOBBHqxGwZZOhqLlSVXkmdjQv97j+SZzZBMoCxs7kavdXTO0fvozN2XBBRMoP1B8uQ1SURbNWKf81Q0eZHWooJ0KIc8bXJBc1axgdVFsiPJBJ5y6inGfEmYMZZLTT24uFZ0NYs/jCCPo0elbKsWY87yo+R+DGqRF6jORmof4u7uyq7Puh0pqr7Omk878iTUdZV1QSiKrvuBsgWhlLjVeZhCN+/lZ1AfZsog+Rc/cPDAvDT6wBR17jBbM+C2POv3XV/hBiEV+HWGEPvm3fvQqHQH+OwtZR7iBc3UeklVEvvRx4UeY9N3CehjErLPqBz0Mg1gUS9CXo8nhNg/YSW/MaPNJBl5azSD2Tvyu7Hk4ygdeWf4ouB1OPpSxEfpVaz9W5+6hgsKgqespE1aU5anXSvqtCxbXrE9z3tavphP1b48m9BmbTDhIuzbLuujK31VZO1NZQt6pk9d8fIu3S9lXpZoCZDJcFDECMLMNIOXXp5QpPYB0DesbJnAET9ST4ZlBYua5sSBUuH3SHHzDFZgL0RqYexEQ1PZ5vYEVJ+DqVIkVoynPWjzSB4QlFkCwzUmv4olbmEjZsa4SyFktpJBzBzEfxaqpF9DXFji1fGF+ewaqr+k83+Em7/BVStKUUPdpDQ8/boo23Towy+aA6MDrRr06OW4wiccoOnK7f1fhLaosmKjqGyy+qayBT2bq6b/aWT9PYKGE1hiNETf1x0BiW7ZaFlEiZhtscG0IwgM+nxaiTdkAO9xxzUWiJGO+004Brf7EEEJow4CCtStE1qGpNwg8YhUb0TFYsgj1nIrCaag/ES1xw7xQ4zAm9GOsvN3TpiFgAGmFlSqxT5t3GD93xxSATWInKXNXoT/IRjSYRACl/W+41XJ64a+IIf7rIqQtdvwugh91WTVRl1exIn3vbIFPZfDrmh/Goe/coTQRca2cgIzUqnFYR5MQ4Y1WheLRHLuE7TI6ECiGfBndp+QD+dhF8fW4wgXiqW9jJ5wKBI4ogcBaoX7zjMqI2+2qRknpTbbcLsibkecCYet51l7NS23s5EzG/megMtl+npweGJPg/iS/TIavwkWYLHXOEUdYh8KDF2fqFrgPEaxm6Mx3O22asID4ZaGfQbvL34iwprpivQdUUBPUh/xlSvMiWh+X8AvYf92qa+2l40dK/6DV/LpP/0rGcE=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '7db7539551da7447b3dd850d356986b7'}
+============================================================
+
+--- CHUNK 3 (622 chars) ---
+• Moral hazard occurs when an individual knows more about his or her own actions than other people do. This leads to a distortion of incentives to take care or to exert effort when someone else bears the costs of the lack of care or effort. Moral hazard occurs in the insurance industry because the buyer of insurance knows more about the item being insured than the insurance company.
+
+1 The material in this module is not currently appearing on the AP Microeconomics exam and the instructor should not consider coverage of this material to be mandatory.
+
+© BFW Publishers
+
+Module 79/43: The Economics of Information
+
+403
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 1, 'orig_elements': 'eJy9Vl2L3DYU/SvCz2vXlmXZzlsCDQS6sNBCHzZh0Mf1jFhbMpK8u9PQ/94re2bbtBMIW2bf7OP7oXvPOZq5/5rBCBPYuDM6e0cyTjsp2TDkohpkzqSWuYCmyQdVtYqyUg4tz25INkEUWkSBOV8z5ZzXxooIYX0fxdEtcXcAsz9ERGhbt5hzgp+MjoeEVmWF6OyMjSnv/r5umqK7IVXPqoJ9uSFngFa8KpoEVF3bFPwSckpCKAvHEGFK09yZZxh/nYWC7E/8oCGCisbZnRpFCLvZO4lhZdF3HUtnGcwI8ThDyv1we5cGNWEHz9ELFWFd0Cx8NGLM1nnsfhH7dej7DOw+S91nRHZ2mSR4xKvUN2KFlPt5oSWl5NZ5MZKD+EN4TZxSiw/k6QCWCEuM1ebR6AUDHqx7CmRyHoiQuDhyMIE4Tw7giXvC6HWUQOIB81xM8AxuHoFoV5DfUvQIQmOAI4JoE6LzKYO4Adso5Nw8wvo1igcgSmAjLI/v8Aw+EhgGTNhOFtwEzgKBMQCRIHxqizkuxJDqpZdRqIf0fC605RcXxzV2TTE2LF7gWdLcS4j+iMWVWLBJ+iyXY5p1+Efcf5aylkG6MdHY/RYJelvKty2Um2Zhj0Wi7kzyL7iVT0ksSNO/rVBy0dcDL1H7muVM1TLveNXmErG+4VUDzXA1K9C+LhjqnJV00/kL0DVFvwq/p+33kDXplVZgffMGVqhQoEAm3JPHEpseTCJWLyhgfLIuEpSKRz7GIxHzjKJLBLuN1vd35NYo70A56yajAopWTOggfWY9+kWh4kk4uGXUWz20i9EoKeUewePhNummvueDoPplOpdFRp3/ViwfncOoS1IZOl33Da1zkC3krJZDLlXFczZUqmdDX/a6u6JUeIGBtKl5UW5SOQHt6RpND5eBNeWVQqnfRCifl7IUPfnw8Xdyt8jRBLznwo+xgovnouZ9rpisciZog79qfZfTmsuO1WVJ2fUM3HZ89WJT1wVPO38BeHeyK2P4dBlZk17LC2/59Xm53Zza9j+x+t1q5p9frIiu+mTx8kdX4QF/jCxNK9VJyvKm10hWw/G2FVznZQVlR5USnF3PQvgn4szWySF/I01XdKfbtSvKy0j9P/560Lp7Axuxsr7Ew5e/AGMOF3Y=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'a09e37690ba5fd9977c07a0b5ed243ec'}
+============================================================
+
+--- CHUNK 4 (926 chars) ---
+Common Student Difficulties:
+
+• A few good examples of both adverse selection and moral hazard can show the students that they are often involved in situations where these problems appear. The simple act of buying or selling a product on-line (thru eBay, for example) creates situations of asymmetric information. How does eBay take steps to improve information and avoid the issue of adverse selection?
+
+In-Class Presentation of Module and Sample Lecture
+
+Suggested time: It is not recommended that the instructor cover this material prior to the AP exams. However, if the instructor has time after the AP exams, coverage ofthis material might be a way to help extend the course. This section may also be used to challenge advanced or particularly motivated students who show an interest in continuing their economics studies in college. If so, is suggested that one or two, one-hour class sessions be devoted to this module.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 2, 'orig_elements': 'eJy1VUtv20YQ/isDnlpAJCi+6UuRpIcaSAoD9s0JhOXuUFyU5Aq7S8lqkP/emaXdOoYOhQEBOmhm5/3NfHz8HuGIE85+p1V0A1Ejywqzpo+7Ise4yPo0btsyj1WJNaqsrbuyizYQTeiFEl6Qz/dIGmOVnoVHF+RRnM3idwPq/eBJk9V5Sj7P6pNWfmBt2m5JezB69uz3+Lit0yTbwLYukvbbBl7kbJsnW5brJr8kr/akiNzZeZy4jzv9hOP9QUiMftCDQo/SazPv5Cic2x2s6cgsTdoqrxsy6PWI/nxA9v345Y5b1G6HT94K6TGM5iCs12KMQifzfhH70O5jhPM+4uwH0uzmZerQcnuc11ME9v1kpsnMcO8XRbOG33Xfa7mMXqO74YAvqR+0H0PFb3FJ+06lqtvGbdE3cVG0ZdyJLcZ9Ltu6KST98Gq4ZHmalDT3rE4ynvuzXKRFUq84tU1SX1CsHu9Epqmz/PrIfF2yNMvgA/R4gr0xCvBJTIcRHZgeOuMHEOqI1iE4giSUCmJWMBkrRhjE38IqkGIGN5gT+IHsVpQdCcKz5gzCIoXzOIOej2Y8oqI/4LRfBAd0cBqQTMiW8vAICHwH4nBAYRN44KCaiwLqOdS1nPW8B2O5qJH/CnZTCz/PMWkQfvGDXQA/ivMGerJ87utXkBZ5JV6np5DCnSfaHqsllUb2U3hK4A/qShky50jgxV/cIB6oOwNUkzVHfO0QZiOORqswC+3cgiH82yH+9nrvP2vnb3lBLqy+anvRpZK3viBKSsss7nq5jVFhmbctij6rr0hJW17kqmpfNjvIdZYlRZCzpknaC4rV472kVDft9Vf/do4/cWK4s7R2s1/xI6y+0CLxrhGS92Fn4DMVulj8X1TVboUsOyKossrbuGhFFbepEjFWaVUpiVJ218QrTSqCo6qS9OUTQnLblEkV5IY4qrygWD3eS1VNU10fr/tlT9YUCLye8AZuPZ0XzMaDRUkfGJwVvz2TDh2l85YIgU5f0pFaUpI5XSlaqoDoQtMLHTHbfrgL9ODCuSMZb0D3b6MMwoXMIIjJ7E9+mzUF1c4091OeiRGEjrzgxARiYMDxQG7EhitHSLMQMzDNkZ97ptiJbMXoDHsujvsyIAcxjjQoZDYRsyQtlRVGSh9TYcczsbLXR8Ez+peFT4NZuVkw+1JVNENmX2lmr+eFyZOq0ESQpDGTli740qd5taKUe6rutgdnNjxx9x8OPGtDXMuTPNEr/Y8HagfChlAzzgV+pSYUHo1f+1gHFI4seX1Sfwpr6QiP+MCI//j2Dw6TFtY=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'b9a282a445b8b877570ed6c7152ab82e'}
+============================================================
+
+--- CHUNK 5 (781 chars) ---
+I. Private Information: What You Don't Know Can Hurt You
+
+Adverse Selection: The Problem of Lemons A.
+
+B. ~oralHazard
+
+I. Private Information: What You Don't Know Can Hurt You
+
+Suppose that you were at an auction looking to buy a car. As you enter the auction hall, you see a very large curtain that is concealing the car. The auctioneer tells the audience that there are several cars behind the curtain, that they all have four wheels and headlights.
+
+How does this affect your bidding and the bidding of all potential buyers?
+
+This is an example of asymmetric, or private, information. The seller knows more about the good (the car) than the buyers. This particular market has the potential to distort the transactions and prevent mutually beneficial transactions from happening.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 2, 'orig_elements': 'eJzVVlGL4zYQ/isiL20hNrYsy/a9lL32YZdey8EulLIcYWSNE7O2ZWR5d9Pj+ts7kpPday+UNpCDPiTEX2ZG0nyfv9H9xxV22OPgNq1evWErmUABOseoaiCJRIJlpGSaRiLVGpsUkjyXqzVb9ehAgwPK+biqjbG6HcDhFJ472JvZbXbYbneOEF5kCeUc4KdWu51HkyoldDTt4Hze/T2v8pgC06QQsfywZi9AmpZx5YE0E2lcnkSWJIJW035y2PvTvG+fsbsdocbVJ/pDo8PatWbY1B1M02a0RlFYEktZJJICmrZDtx/R5779+b0/aDtt8NlZqB2GBo1gXQvdKpxn2M6wDYe+X+GwXfnVR0I2w9wrtP6Qfl1HFXzuTcze2/aR+sRuhsbYHvxm3rBfd+DYb2ZmP5rhG8d+GswT+wEGdj3bgPvFjtu6a10XTvN35pTURVZhFgmFdSR4IyKVAH1lSpZphbLh9cWYE2kVywMtgbkXQGZxEnjivIrT00hIOo+5oswuz9uVfkQ7IbuljtcLZXc7JC6NIgqYadg77M0wsav4c6retZO78ec5wVapEXkh8khyqSMhJI8AGx1VsimgVLJSkl+OLU6NC1TwuAxsHQCelAs3RSni7BSwpJzHVcmz/Cuw9TZmfxgL3TX8Dlb/W0J0nagqySDKVckjkWmMgFdN1ChIuBS5SAtxMULSIo0r3+48i3l4N45AVRwAXmZxfhoJSWdSkqS8+J8bX5WWWsimipSq8kig1pFq6jxKZJ2XTSULyS/3KqVFciDqYHxHQPDjgCrpHSpOIkvSmcxVqfwKzN3O42jI+pxninrBntAio9/EEsxhZ6wz5qEdtswZpuY9A1aDjdnVFOKJJ7SUji/hO+i6dfhvQkIZeeuedWC3yGriHdphWa2dWG2GGqELxalCqHv3Wgp9Zey66VBft0jxSzYhfqP0mZBWgM5nT0zhrh30Um1ZbP0ST1vvOtreI7LGzJY97RCpNlD8DkF3XhrTXxz+F7CWpPyId75dJ7SZ+GtTkYooKxuazLVSEeQJRFWtG2ggLWSdXVCbPNyevPDyRZsHoDiO4Czliza/RELSmdrM80JcXpvX5BbaoGeftAJNQ7vxurJMtVp70cCB6uMzTWpP8WgcUUTLer3SZP/+P3GqBVRc02ioCxrYQuU0ujMuo4oeNaiyrFVy0Unhb7s53ZleJoUHpKjiYgHE4i5fIkvSeZxWZZanl+f0zlPp2RwYPkM/dhhIm/Y9tdO29ZoZy8ZllqxZ+zpMFmOYyA3IFB5okEysN94BFDU0iGBrjGbfHnzkO//WD4s4ggZ8Pq0b9l7PZEesB/uAjvxgsZdX0ZDPabpJGLvUpZMPE4SmLWYxWnKcwbF+djPJbU+mM2DT1iH38+DGmp7qjyMOpM5/cpYPfwL1gDZb', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '418af91d504270d24cda0b7ce9d0065d'}
+============================================================
+
+--- CHUNK 6 (949 chars) ---
+A. Adverse Selection: The Problem of Lemons
+
+Cars, particularly used cars, are often called "lemons" if they consistently break down and need to be repaired.
+
+Who knows more about the quality of a used car, the seller or the potential buyer? The seller knows if the car is of high quality, medium quality, or if it is a lemon. The buyer usually knows very little about the car.
+
+Example Suppose there are two types of car: high quality and lemons.
+
+Sarah is selling a high quality car and the car has a value of $10,000.
+
+Lucas is selling a lemon and the car only has a value of $4000.
+
+• Saul is looking to buy a car and both Sarah and Lucas are willing to sell. Saul doesn't know the quality of the cars, so he splits the difference and offers the average price of $7000.
+
+• Sarah knows that her car is worth $10,000 so she is unlikely to sell at the price of $7000. She'll probably withdraw her car from the market and continue to use it herself.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 2, 'orig_elements': 'eJy9l01v3DYQhv8KIRTIZSmQEkWKuRRp0UOBtAjgAD04gTGSSIuwVlIlKptF0P/eIaV1Y2d78ALrwx74SsMPPe8MZ2+/JaYze9P7O9ckb0mS2zwzwHKqVCmogJzRUoGlxkrWWGVNw7NkR5K98dCAB4z5ltTDMDWuB2/mOO7gOCz+rjXuvvWoZCpnGLPJB9f4NqhMc1THwfU+xN3ecpWlxY5wqUWqP+/Io6DychMYVyk7q6xBKCXzcfZmH07zwX013c0ItUn+wQeN8ab2bujv6g7m+W6chgpfY2nJZIbPreuMP44mhP7yx4dwTjffma9+gtqb+H1GmLyDLonH6e8XuI9nvk1Mf5+ExUdU7vplX5kpnDEs63GGEPsuJe+aL2aaDbnBrx538pZ8bA35gBtBDGSw5L3ZD/0c5j/t5KPzXdz/D6xkppuikLQuygxZVZxWSpc0zzMoCstFxs1VWYkIQqfZiVUQyqxIi01QqTyrrEGXsdJMcX59WL/CNO9InKFeOpi6I1lm05A66jAZhOVNj+OuQ/lT0kVwnxLiLPGtOZIahw5P13uMrSYDD6QZDj2BviG9wRg/kMqQyYzgJtOk3zP/E6YJvPtiPobtnGHPC1VKiYlpK1lRYVhFy5or2tSgtG2UFPq67CNYxdP8xB6FjLE8ZVEoWZHqc8oWdCH7kuni+uz/agfy0A+HmewHBA0Vfo7AlPy9QOf8MeQpPNphFx/NBn0wkWGKo3EI3HF9Ui1HM/0cs3x7ZZ15dUmIJ24OE7YI4bTAjuxN45b9f2OcFyOcDy8DiV5L46RxftwLvog2W+fGGnMkGId147vN41Iv85gqKqtMYSirM0tFwxsKdVPSSuaiYgWTwMqreSzTMuXBQEKmKhjoUdBsqyYCvaXOKzHoMo+pTHN1fY/99hX2I/K5WcZxwBsBCQWr4c8fBhIWjq5AaG+fWCOWj7XWvIym1aCrCoCasmJUVFLTCinSuipKKHUhra2vRlNwvaHi621xEnguVrxclHm4P84oa9CFNHlevALNG5igDbkZctz195ijT6CFNA/gTinfQkjjL9At4R4hP3G2Y4y9DGgpFJKUGZU2ByoyJqmuLV7/tSyg5IVsrnj9B35FpJWvV8CjoNTWD+SITZ1XYtCFQIuCvUKv9n6pEdEToDHpnlAceiy5z1GKF4OUhRC2BkmZ1QUVTAMFaTk1rBG5abTg7Ho9d6ZVmkdKem2oT0ImT9jUloc/KmvQhXe54tkr9HGfloxlGbmBpQs4u2F4CDhD77VgMX3MzGrwLVnTOAxX/qEcH9xqAIwIXkjXqZrBzP0bHy/c563BZg9sE+eBhHt/xCdzlBtnLdb5vjZxlSGM1ieAlzaegoyTq1cjqedGeo/d5O/hK5/xkGgqK6zKacmAY3WHHD2kNS20KrmVeS1Ke0UPlZtldCpWD61CXpQp3xrEPPxLO6OsQRd6SJZcv6KHgjvWFsu34JHtdGrgDsOE/tnqeOA+I1PUl75zDwbLxGYfAmsz9gwzuWnNG3waTgYVvn5wvm0mODyuYadhHyP3MD0YH+2D/zC867Hu4OTYjYb2sA1/Lzv7P775/C9W9uB3', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'ccf9b4944cd86ce9bbf17756b69ff3d4'}
+============================================================
+
+--- CHUNK 7 (872 chars) ---
+• Lucas is very willing to sell his car because he knows it's only worth $4000.
+
+404
+
+Section 14A/8A: Enrichment Modules
+
+© BFW Publishers
+
+• This asymmetric information "drives" out the good cars and all that is left in the market for used cars are lemons.
+
+This is also called the problem of adverse selection. Because sellers have more information than buyers, the only products being sold are of poor quality.
+
+How can sellers like Sarah assure buyers like Saul that they aren't selling lemons?
+
+• Sarah could offer a guarantee or warranty. This is known as signaling.
+
+• Sarah could provide documents that show that her car has been inspected by a neutral third party mechanic to assure its high quality. This is known as screening.
+
+• Sarah could have letters of reference to assure Saul that she is honest and can be trusted. This is known as a reputational signal.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 2, 'orig_elements': 'eJy9mNtu3DYQhl+FWBTIjanyJJHMTZEADVo0KQIkaC+cwKDI0UqIVtpKlN1F0HfvUNp140ZBnUU3V16ONDx9M/+MfP1xAy3soIs3Tdg8JZvSQs4MZ9TpXFLFGaPGKUMrKJyAoMEWbnNFNjuILrjo0Ofjxvf9EJrORRjncesO/RRvami2dUSL0JKhz9F814RYJyuzHK37vuli8ru+FtZk+ooIWbDMvr8i9wbFVKaTgeeKZWLVsjihaTMexgi7dJrXzZ/Qvtk7D5u/8EGACD42fXfjWzeON/uhL/E19MuNwHU2VdNCPOwh+T5/9TodtBlv4M84OB9hvqC9G2Lj2s18nm47ue186OsNdNtNWn2Plptu2pUwpEOmdSPOkHzfTYIJQV5O3o2kGcktDAdy17Rt021J7MkIbUtqfODdQErwbhqB1EA+dP0dOsQnI+m7Fl36IdbkO8UYy9JGTlt+2Yzx53R0XPTfYH3unHQmUBnKkiqPv4yTnDqV22C1Ep77i4HlWmQGGeVSZPlM7WTIbVbMpEWRsVXD7HImVmGsuDxWjMVPKbzo+4gvrTAAxWQlDacV44YqIyUtvaxoaYIOQggOoC7GQHOZyflCZcbSDd8bCr5kGxeq+JJldjqPAjLQ5vIU3iyrE66efW+ePSU/dkPj63T75FUfphZnegBp2P0Ch/E31074ZAVWXjJvXF5QVnpOlSuRU1CBFjyXPACUPheXS5hc6GPGFJladO5kKVRmlhyy7IjrM8vsdWbSSM2Lb6GFjDlLnr/4nbyeyrYZaxjGx6WRqnKRB51TU+SaonJ5lDKmKAjG8hwzjFX5OWTkChnO8odklJAJAy9MJtKdH8cI4cjJYmXKVwyLx5lM9LyN/x+JXClPb1MFcuNhh/eHKUSarsJkcXNyvduEobmF8d2G4DWRiMVp2/chFSz06QJxWMFi7WIqby1U+Leb39q54QNEgjMRLGonhwHwpV3fjY8uYypPOamAessDVSkKrGGOMlYZZStZltJejL2wOrOI1p5q1DKWxhzl0mIwqBXD4nEue8svI58P4M/UE/h27JFO2yKkBC7tAwmQviIuYMOCHQm2KctWM/L82KSkzgWfkdrdIuseuX4aNRgQHSmnA75xNU86dzE4c5h8HLHTSf3P2LdhjghcaY/AyB+Ta5t4eBAav7phwDlv4W3a9lqJFeCqnHuKsYDxUWhOSy4VNVoxp7xQvCwvGB8mZbqSfNHj01ibpeLyXGMcrBlmjzPjgzPzDcThp/4Ow6K7J902H4C8cYOrUSvGCbktgE8PpqMOIO5Dwto9ibNvQr3k/A9fBda6UpWKcWodFwjWGmqhYlQ6X0jGtLXmrP71UWBlaogSN7uI/nGMZWgRAizOJnH8zLB4nAlWWXmZQrym+gtK30+YhX1VwUAcwYkG10XAnBzIXSLUYT6Sk1Skz5IO6ZOx2XYukX20jGsZOGdCYf+LSJUqNf6qPM0rpw0ABOCXK+GyEOnTIscvjGKhOY+xsTvCw4Z11bB4nCvjXF7mW+S/aOIWbpsAJPR+SgjGJTHHGjN6/oWd1/zFWbukxdChdo97SLshJeYu6WDC3aV8bgacDnd3IDvwKOrYHeBn6zH/G5y5RhT3wr0SKH7A+b8mUBwvK5f+C8G99hgoRmKvV3DKdVExJ4W/ZL1PaW5SHOillTuONdOLDHCLT+SKYfE4N1CW3X37QJmLNy4ak4xjFR4AZQA6D59A/kfYsWFPbOu+gzHOvV8qDyW+PEx45rCC3+GU+ynOTQHG0yIbXwiF938D1GarsQ==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '1b7e730a36a091cbb4223162a0431983'}
+============================================================
+
+--- CHUNK 8 (833 chars) ---
+B. Moral Hazard
+
+Suppose you had a low-mileage car that looked very nice on the outside, but the engine was shot, the brakes didn't work, the seats were uncomfortable and the inside smelled as if a den of rabid skunks had died in there.
+
+On paper, your lovely looking low-mileage car is worth $15,000 and you have insured it for $15,000. In reality, if you tried to sell this stinky death-trap, you would be unlikely to get $1000 from a buyer.
+
+This situation depicts a moral hazard. You know more about the true worth of your car than your insurance company does. And this distorts your incentive to take good care of the car. Suppose the car was "accidentally" wrecked and was a total loss, or stolen and never recovered, you would receive $15,000 from the insurance company.
+
+How can the insurance company lessen the moral hazard?
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 3, 'orig_elements': 'eJy1lsuu2zYQhl+FEAp0YwnUzZK6KdpVukgbINkUJ4ExIkc2YZoUSOo4btB375Cyg9PGKJADeGXz59yo+TjS05cMNZ7QhJ2S2U8skzXvcBrbXIoO86Yvx3xoxi6vYOqnGmQ1TkO2YdkJA0gIQD5fMmGtk8pAQJ/WGi52CbsDqv0hkFJ1dU0+V/msZDhEteQtqbNVJkS/p6dqGIpmw7q2LPpPG/Z1PXRFGdfbrin6O+tkT0LmLz7gKZ7jnfqM+v0MArO/aUNiQBGUNTuhwfvd7OxIZrwYyrqsyGBSGsNlxuj769t38YjK7/BzcCACpkczgwsKdJZOYvYL7NNxnzI0+yxmn0nZmeU0oiO9jnkDRUghC/bWOtDsDfwFTsYYt2wfVNCpyP+2oh9aKCfZ5K3EOm+6acoHiZhDNTWAkyy7tn5gK/qCx0fdFtXairQeqn599OXA26K8I6wer2xGz/vH9+L9Ms/WI6MnwA4gGTBtz/mJkpIPE+BYOEAg0R5Rsmd0F2aUQGYNbdDPErySuGHjEpJAKZVBdgbP/MGGTRJHB0f0TCppfgzsbN1x1T1C8OyMDtlihD1N1gUYNTIwMhkoE6Mzf0KtKT0FVROVKNEwOzEHo5LMHxdz9Kl4qchIpcocFi+5+h2cg6Ce8UM89x2+6IbztsI+HyVv8kYAz/umopvfDTh0vNqKpnsoX3Tvhq4s2htftC75lq9COVRdMdxTVp9XEza0j0fsD8NmmNFtImSOUHpGfUlEKbP/BjflIyDhwH4o2w3nPLGw0vmcgFhcbHJgBMvNpmC/GeYQtAqXTUQk2gcXaQiWKNOakKDAPihzvBA+EA45nW5OJVG+RUs2Rgi1OsbiyGuPgcLHAiZnTwTduFzQfR9U25rLdqBRNUnZ0/ujG3IoK5n3iKWYethi2z4UKjIsS14X/EZVFKq+LJrrlFqp+lZZnV6L1barH4/Vh9RRFRaIRVBTZyVomgA7pXfLIb1bCvYnNfho7DnKNFhGex1UwS14Jc1OK5nXaWfWVUINDM06mkwzGOLGoi/YL2k2qTjOfCB/fzMX1HiCIcITaN6xvbUyxsSYIKak/wW7DdyrkCblxwyEoEFnAmh9+Zixs0MR521kPxoABaU9uizebxiBT5k1DcG4b5CmMtEv6F7R1XiJNIkYK7pdpUTyda7++2zfx3XLQQoQPN9ONX0XQTXm0AvISxwnDhUfcJoe+l0UEa2rptjePoySsB2KLlFc8Sa+n+8pyem1X0dl1T2e6zfEqgBzv09Mo/e4br7k/Of/6d+nfwCcU2V7', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '35c86abe6f48f91effa4911459a2c224'}
+============================================================
+
+--- CHUNK 9 (505 chars) ---
+• Require a deductible. If your car was damaged or stolen, you would be required to pay the first $1 000 (or whatever your policy dictated) before the insurance company would begin to pay anything. By putting some of the burden on the owner, it reduces the moral hazard.
+
+• Inspections of the property, or person, being insured. The insurance company could get a mechanic to inspect the car and assess it's true market value.
+
+Other forms of insurance, like life insurance, are situations of moral hazard.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 3, 'orig_elements': 'eJy9lF1r2zAUhv/KwQy2QWz8HXuXvSvso2y760o4lo4TUVvyJLlpVvrfd+SsYRsdjEJ7E+xXfs/nE13eRTTQSNpvlIzeQbQWXStrbGLRyyouqRYxZm0Z19giNX3eiK6KVhCN5FGiR/bcRcIYK5VGT255H/BgZr/ZkdruPCv5uijY80veK+l3Qc3SitXJKO2D7/KyqPOEpaxYp0l+tYKTUKVlsg5C1qZtkj2qHE0sRe7gPI2hmwt1S8OXCQVF93wgyZPwyuiNGNC5zWRNx5+lSdtkOZ/3aiB/mChYzz5chD6V29Cttyg8LfOZ0HqFQ7S0o7czbpeeLyPS2ygkn1jZ6HnsyLJehLSeIwTvtzlP8xw+0/dZWQIESXLmerqBEjjvgadjQaCFPTqQOHIkCcaC82YgvQrnsDfzIKEjsMcoEryBCQ/gdwS9ss7DqwzSNIU37NzveCc3ZI+hJzMocQCphGdZvuUwveFCglVpN1vUgkCYcUJ9OGXaKv2Qg2W/U3qbwNkBptl7fgZnRgLTL1G62UrSYPTyZvaa7AqU52K5UXKLOhqLA+zwB1qZhDk+TPy9cv48LI5n9jeWRVfWVSMZy3XbxqUQ6xhlV8ZpTqmgtEor0T07lpwlyf7Asq2TcoGwydqkflxZTE/Ecl3kxYtxea7ddKzDPeyTK5nI+sMqYMhPzjCGHYW1L8CQTODro/SIhZ4tecZ8JLFDrUTASB2TLNED6qglcM/kHHPymgmxMyOC9pqdNzjM9N+IVLUQMu3buOr6Ji4L5Jurqds4a7HL8zyt11n5bIjk7XHbdZkmVdj/SWiqo5CVDS/0cWUxPRGRomxfAJFPvC8LfFuMCxunfa9gUNfEPz39LiLfKk75GU80/fNf/xGt5c9u6GtIdX/1EzQ2Ds0=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '5c01487339d45570f66efee4e3595cb2'}
+============================================================
+
+--- CHUNK 10 (749 chars) ---
+This happens a lot with life insurance. Suppose Eric knows that he is very ill and won't live very long. This is his private information. Eric appears to be healthy, so he goes to the insurance company and buys a policy for $1 million that would be paid to his heirs upon his death. The insurance company, as is their typical practice, sends Eric to a clinic for a routine health screening so that the insurance company has a better idea of who they are insuring and how long they can expect him to live.
+
+Note: Ask the students why many sales positions (clothing, cars, houses, e.g.) are paid on commission, rather than with a salary. Ask them why they think that waiters and waitresses earn most of their money with tips, rather than hourly wages.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 3, 'orig_elements': 'eJy1U8GK2zAQ/ZXBFNpCYhI7m9i9tdBjS6G9LSWM5XEsVpaEJG/WlP57Z+Td0palh0IPIfaT5808zXu33woyNJFNZ90Xb6Co+2NX0b7eUnc8bA91M2yboVLb7nhDzbFrTn3bFhsoJkrYY0Ku+VYo50KvLSaK+d3g4uZ0HklfxsRIdaprrnmEr7pPo6D73Q2j3mmbpO72tmrbkqH9qWrK09cN/ATaQ7sC+7Zuy/2zyFrEUBGXmGgSNZ/0A5nPHhUV3/mgp0QqaWfPymCMZx9cx5/tyrZpmpY/GLShtHiS2ncfPolQHc/0kAKqRPmCPIak0RRZj73MeMmibwuyl0K6e0bOdp46CozX0jcxg9R+GXWEEb0nGwHBuARXnUYweiDQNs4BraISPs/eu0jwPmgFd9ZdI6QRE4z8VYR7CgtoYwBtD1dnXyYmuKcVN85eSsiNpBf/fND3vBnmH1yYUOSXK7MMgoG5HXTE5GjSuGwgOml0cZRP0vjLaKDc5NEuuXU3L6LCO6PVAkwOL/Yw8WDcYZ336mbTC7dH3QtZ1k+ae86eP5LXnjCNMvEzbTaAWUaSGuDFaIWGBfEytCKelGwfVy1MjqCMtvwsoyAE9pq2T7ogqkBktb2Ivjzd88pGFFEdpUQBNE8HboDrmC+CdYfHGiGSSxjdNd/5eqzQAj14Nhlrm2Qo2UwpZnmy1UcMgZdwT1/EFOyOPxN4rNTNqR+q7a7pcHs4qd22HXbttul39Y7qbjgMh/+awByvti73TwlkoNpXx/Kw5q2qyuNzyGPRvybweKr/fwI/ukRv4G28y9uPae754iPvd4FJth/RsO05fFqGjPBKcUhHXvaGdxvihvc9R+J/Ki/l62yH7G02Mxto0jFy2QZ4wyPbh21m14SjMGNYyqfeU+6ZTSP8d4+BQc22i2uy+TlQ5G7AKbUwuZjEi2sYJme5NHMn7ePvLXnIYPhUbuZv5vv6A1De9O0=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'fc7c0c35eeeb25267f3ad20f47290994'}
+============================================================
+
+--- CHUNK 11 (546 chars) ---
+In both cases, the owner of the company relies upon the efforts of the salesperson or the food server to keep the firm profitable. If Stan is paid a flat salary to sell cars, whether he sells 20 cars in a month or zero cars in a month, how much effort will Stan put into his sales pitch? This is a moral hazard because it creates an incentive for Stan to be lazy. Rather than constantly monitor Stan's efforts, make his pay dependent upon his sales and eliminate the moral hazard.
+
+© BFW Publishers
+
+Module 79/43: The Economics ofInformation
+
+405
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 3, 'orig_elements': 'eJy1VU1v3DYQ/SsDXXpZqZKoz1wCBEgAo0hhNEF7cIPFiBxZRCRRIKls5KD/vUOt7aTpngwssIfVI9988M0j775FNNJEsz9qFb2CqBBdVmbUxGleiriQJcZt0WRxUQjsu6wVUqnoANFEHhV6ZM63SBpjlZ7Rk9u/R9zM6o8D6fvBM5LXQjDnET5p5YeAZmnJ6GL07APv7i5v26Q68ELVJvmnAzwDommSLABZW9RJfhE5kxiK3OY8TaGbW/2Vxg8LSor+4QVFnqTXZj7KEZ07LtZ0vC1N2qZtC97Q65H8tlDgvnl/GxrV7khfvUXpaT+gBa3XOEZ7P/P9ivd703cRzfdRyL4wcpzXqSPLuAh5PUcI3JsZOuMHkOjIHcAPBOY0kwXT7x/STAvOG1gaNTlYFzPvOPW9sd49bXM4klvIOl42dod6YxQ4sl84mDfwmWg549pOwG322mM3UgI3PXzwOIN2sKBWgNCP6ENItFugOhpHLtByfaeBOIaFkJJRB3m6r4CemTeZmVvh/A9kzc/4AQZzgmmVw2PxcNIcd0+9rJ53cqqBi9h7gUV7ObyGjwHhXwhicYQBH9Aq6Eji6gi0B2kpTBmEDmbJY6u/hObtOTLH7AhGfNgS+AP32v3AuDSz43U/bqE67R/3/+KeTvYAE36mvaAFN1C00Kw4+lmC73XirIC1mfZZ3w/4x0KTMBRP4/M7WouhvI9BfJ6Cn52WdXlbNSKNa0pVXCD/60Qv40b2JdWyroQoruY0kfLQs2lKkSVVsNEzUKWJCEBZFUl5EdgpL/SZqMrq+j77e01TbOHNu7/gdu1G7XgS3I/ivDPGM+2CKnWeqrKWXSwaVcaFKrsYywJjkTdVm6UZVrK/mip1myfZ4xGn4cyfARbhfNvxPZykl5Gd9DJd6ixvxPV1eW/UOhLU7a+FeMVuJ3jL1jSTluFuu5nZixOG+v6rlZ1+o839iePKqS5ohiiaUlZN3CrR85ulsrjJkT9r7Ooa21Rk1dU0y5qm2N+fUqRnK31Hyjppz2+UKM/u+j+ys17opjzPmuurVqTlJe98+hdbNIqQ', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '39e78e9634008b1269239bd293d8710b'}
+============================================================
+
+--- CHUNK 12 (884 chars) ---
+In-Class Activities and Demonstrations
+
+A quick search of the Internet turns up several on-line video lessons that describe the issues of moral hazard, and the lemons problem in contexts ranging from the insurance industry to the recent financial crisis. Here are links to a small number that might be shown to the class or assigned as homework. As with any video posted on the Internet, some come with a political slant, and others are posted by amateurs. Several videos appear to be the product of class projects in which students have created scenarios that illustrate the topics in this module. Such an assignment might also be possible after the AP exams have been completed.
+
+http://www.youtube.comlwatch?v= _ SdtoKeFTiO&NR = 1
+
+http://www.youtube.comlwatch?v=6BPhkAg7 6y8
+
+http://www.youtube.comlwatch?v=T3M8IxuP4dI
+
+406
+
+Section 14A18A: Enrichment Modules
+
+© BFW Publishers
+
+r
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 4, 'orig_elements': 'eJzNV1Fv3DYM/ivCPewpci1bsuQCxZBuKxYM7YIlwx6yIpAlOqfFZ98sOZe02H8fJTtF1t6G9oDb9pCLSYkS+X2kRF29X0EHG+jDtbOr52TF8sJoCzmVSinKFXBa88JSMMxa0dSyqWF1QlYbCNrqoNHm/coMw2hdrwP4JHf6YZjC9RrczTqgppBFhTaLeudsWEdtrhRqt4PrQ7S7umKizlDFhMzqtyfkg1xXWRnlupJZtUdO81Gx8g8+wCbGce7uobvYagOrP3DAQgAT3NBfm057f70dhwan5Vld5bzACa3rIDxsIdq+fH0eQ3T+Gu7DqE2ABM1Wj8HpbpUi6W8mfZPCvVpBf7OKu29Rc91PmwZG1PO4b8AVou1ZT7+JG5NT9OLOBQee6N6Sb2Ez9B43ib75uPSjE5cudMn3jxmqJS9tXTW0KNuc8lwrqloBtJYltzlwZY08IkMqEyekEDwrZoaSLKoyk0nGtImUfKKYLQ7kSNU1Oz5Hp+T3yZlb4kGPZk2GloQ1kLM+wNhDIGEae0+mLY7fwag7MvS0cz2QO2dhIB14jxSijQ7EgjejayCt4LyfkG5cbzNEu7V+p0d7kviP413KARLDxU/iemKGPjrlyYgxuP6GtOOwmdfq/YRKE7/shInzQMKQRkYwmCOkRZJ7gxAQdMA7n5HvYQSi8Q+dvfVxuiZ+o7uOzDDMHm9iIhD02K+HXf+4aCKCDCPBf+6mB4sfZD1sYDeMtxk59WTnwhojeVhQ2A5IrkVo/oLdCfFog2Hhz2yAEzusAoN+eiQqzGgMaDT65OyyUPNA9AazdhoxkosF+LQVTttukano6gI0ImgnEyLSs+Oo+A1TykdMd2uHpPowWYQJg9B36NAIOu7iETo9umFhz3XdlGpyXjYMW2fSGmHtPJJopw7Qm8nEyBdoYoEuIOrOJ5cwBO+QUqLbkGAGcnpO4F5vlu0bgMj1ZotpDTZ7Wv1v9BjPhDu4jMm55xRoZNUyUBVljTaUl8LQWhmgWlit26rltiyPdwpUeazpKpcZS0W+yOKx6HNeZ3yfIlkcdgooJkV5/FNgHcL2+bNnu90uiyhMDWRIUbfTway/vntBrsmFDcMP8OrS/fjVm5/IC8K+iLjaSi2gkJE4wAtWSKpyWdJKtoLrsuINtEclLvHC5gv0Ua5FxtOFylmW75HT/ANpKwsl/3Paqpfn69vTG0mqB/VFdBneVpXlJRW5wdu20CWtqyKnjZWCcdU2lRVHpwv7HfaELsnzhZ5S7JPn+QfSJf8PVXZZvlZn99M5t2dfxBboAppa55TZArtXJhuqWSuoUWUlWps3lldHZItlRex0mMjETNei4GWmoqLAEbZXkUwO7I6KQvLjM8bz6ikVr4YBL7W9FVM3vFZQ0ryoJOVtmVPF8pIWiuucWwm6Ot4LQuZsAVTNJ9wHBZcz5Kwoy6Uh/USTjA6tG8XU8Vm4mHcnjJ8ydfqcfNeP2Nak5uN16kv855GkoJEM8ByrpdaUNxXQpm4EZTWTOdRG1cIc8RHB+PyKKNjSH3zQiHwhRUr1d5pkdWix1OxfKJZfpzzXNXn56hdyPjWd87Gv/TxmJCvaNpctRUcbyusaqCoKRsvSGiOws1OFPoCZUu5hhuXio/JR8b0d6yHdN7NYiuW5zfANxz6V5+n/yMceuD8HU/EU0/Epfj/3BoO9GUb3Dux8G7z9E02fKSk=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '503441145881f283200653cad6e4342b'}
+============================================================
+
+--- CHUNK 13 (583 chars) ---
+MODULE 80/ 44: INDIFFERENCE CURVES AND CONSUMER CHOICE}
+
+The purpose of this module is to learn how economists use indifference curves and budget constraints to fmd the consumer's utility maximizing combination of goods.
+
+Student learning objectives:
+
+• How economists use indifference curves to illustrate a person's preferences.
+
+• The importance of the marginal rate of substitution, the rate at which a consumer is willing to substitute one good for another.
+
+• An alternative way of finding a consumer's optimal consumption bundle, using indifference curves and the budget line.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 5, 'orig_elements': 'eJy9lU1v2zgQhv8KocteIi1JUSKVW9dx0QCNU+RjL9nCoMWRzYUkChLVJC3633coxUW6SYAggHPzjGcoks/7Dm9+RFBDA61fWxMdk0hSrjZ5msVVYcpYUCZjbVQRKy5TVWWqKnMRHZGoAa+N9hp7fkSlc72xrfYwTHGt793o1zuw253HDPZK7HlI31rjdyHLaIbZztnWh76bG17IJD8iLOcJ/3pE9nFKaUJDzJRgSfFMYu7ATDTcDx6acJIv9g7qy06XEP3EPwx4KL117bqs9TCsu95tsIwmRZ4ygQWVrcHfdxB6/zr7Eg5phzXc+V6XHqbL6XTvra6j6SztdtTb6cA3EbTbKHy9w8y6HZsN9JjPwnc9rhB6z85Prj8viaJ/EiGOyenq5PTjx+XFcrVYksX1xd/LS/JhdUIW56vL67PlBVl8Oj9dLH+Gb+13dWV9PR3m/9BECYJyaWItcx4LUCzWNJUxTdNC5VxnFc8OCo0iEykSsYeGscA4mxmlWWD0JDF3vBEa6vEdoF3tgHRj37kBiKuI39mBNM6MNRD85R2pQfct2blbAqVrXWMHP5ARq21rbFVBD20JpBz7bzAQ3RqyGc0WPMHiAfcYLjEsUzUGF4cpPTbQ/4GLeFtbf08afWcb+922W/y32QRgeB9hN1vnzJA8FshK9z3+/Q2uwv6fEYqqmABRiRiMorGoQKNQqjwuWa6p5IXhUh5QKCrBVMbkXihznIskD7GSz8dT/Vu9LcQ7yOTSjwYveVZDIOU2/4YNIfTjVxm45EJyqlnMZFXFIi10rKpCxZnYFLTIMsnS/GBc0pwGO2aSz1we4pynCZv8mrMsgHiSmDveSCZTaXp4Mv+MnHJOPr3OoOhEW9djcKYHokkH/eBaNGPXw0Pp74b7jMudhpM/57WMaVMJNFeay1igw+KCSxWbTEuTsY3BEX1ApiwRARlN0pnpFKOO9g+nSgPkJ4m5441MpXg/pGE026ZzvdeB4DSdAadlv8Xrq8lEEJPDuBm89WPY79FUMrP15HZnyx1C3s/cMNFvEX/wLwrhVyMu08I0bEnlehziDlfpXy0DTpWESrCYp1qgtVMRK41Or5hEr1NZSH1Ia7OEB8qPZICxosh6pv5CYu54qwxUqt5NBx9aomsPfTs9fORW3wfsVbA3gtSPn1TXedugNuZUN72jm7E1NRzhSAjlL73aQTcPLzfqA16A//U/nat01w==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '3e8f5537bfd7d0c778cd57057c262f97'}
+============================================================
+
+--- CHUNK 14 (899 chars) ---
+Key Economic Concepts For This Module:
+
+• An indifference curve is a line that shows all of the combinations of two goods that provide the consumer with the same level of utility. Because all combinations on the same curve provide the same utility, the consumer is said to be indifferent between them.
+
+• Indifference curves typically have four properties: they are non-intersecting, indifference curves that lie further from the origin represent higher levels of utility, they are downward sloping, and they are convex.
+
+• The marginal rate of substitution (MRSxy) tells us how many units ofY a consumer would give up to gain one more unit of X, holding utility constant. Because the MRSxy = -(IJ.Y/t:.X) = (MUJMUy), it is also the slope of the indifference curve at any point. If indifference curves are convex, the MRSxy diminishes as more X, and less Y, is consumed along the indifference curve.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 5, 'orig_elements': 'eJy9lV1r5DYUhv+K8FUCY9eWvwO96JYWsu3A0s1CQroMsnXsEciSkeRMzLL/vUf2pDPbTqEEsnej1zpffp85fvwSgIQBlNsJHtyQgLd5G1esDKGr2zCLyypscoq/qqzsmrZqeMKCDQkGcIwzxzDmS9BqbbhQzIFdzpLNenK7PYh+71ChZVpizFE+CO72Xk3iHNVRC+V83OMjrasIJSwVFZ835O9znUWlPydJRaPqkrBEoBLY2ToY/CQfxDPIjyNrIfiKDzg4aJ3QatdKZu1uNLrBa3FUF5QmeKETEtw8go99t/3ghxR2B8/OsNbB8nJGZpxgMlhmUf3E+mXgxwBUH/jqIyo7NQ0NGNRzX9dhBh/7G8zkl1YrPYiW/KxVC6Oz5FdtyN1eWLLVfJJw41O/NHEnnFx6/6dHNSRNXHVtmMdoVNbkaVgndYeWpVDwPIuTsn4zj9IiieiG1DGNcm/B8ZzEWbyaltRpFWWXlDXmlS5VtCzf3qU/JxpTSn5SRCguug4MoFOkncwTELSJESkUELdnjti9PqAiJdEdKnhLD41/w9i+XbSDJr3W3K73cZYnweF4VdlpAEMOwu0XxbIBiIQnWNJNTkjh5oi8g5ZNFpYy3+ZXp7C1vfP8i3xMsvm2Ik5hmeDEadLA2ZgOj+4AsOQdonMSfxfW3XrDLsDIoIGiYGlICw5hRts4bLqGhjmiSMs2KzoavyGMNIo9amkZZSuNq5CUxSokNc2i9KKyBr0WxzSj3w3H23+xiEjNo2iRipnsGZrf6cl4AkbAamBvvIkzYQaI0irEFwbG+lFUv7mA9pFQKTDRZDDUkM7oYQFHG9ELRQyMBqzHZI8m4YWFVXsG6+ZUk+uDOjDDiZV6XGoyxU+PkcUneP7fiNU8zbq868K0jPFL1EAcMsazsGIxq1NIaNW+JWJJVCz8pOs350VI8ypKVqDy2H+mLihr0GsRS4r0uyF2h04PzKDTTBKDb80ba6fGOuEm3x652v7x8Xm+Jg4k2j5ZgusPQ9RMJiWcB+EB1+NpselJctILZHMa/bLpGVKkcXkOGhHwMb7E/QbzSDSqf8FoSeGYcqfl5zFcqpMfSXh1+z56+MHdRPfXeLzafnq//TRfI9VuWdDS6nUDInnwspkvLHPE3fe+OB2R2+7iv+IE6+asCS4GoYTd+wt2Hed+JVyCteRh4xs5vgiOHWkc7nIX//EX+PwXFyoLTg==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '001c733a915322d81de30090317135d1'}
+============================================================
+
+--- CHUNK 15 (435 chars) ---
+• The consumer maximizes utility when the combination of X and Yare chosen such that the highest indifference curve is found that can be afforded by the consumer's budget line. This occurs when the indifference curve is tangent to the budget line.
+
+• The tangency condition is that the slope of the budget line is equal to the slope of the indifference curve at the utility maximizing point. This can be restated as: (PJPy) = (MUJMUy).
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 5, 'orig_elements': 'eJy9kltr3DAQhf/K4JcmEBtf1ms70Je+NXRhoQ20bIORrPFaYEuuJTfrhv73jmxvL2HzUmgfdXTOjDTzHZ48bLFDZUspvFvwkjpL2DZK/DTdcH/DRO0XRVT4Eech55yFFa+9G/A6tEwwyyjz5FVaD0IqZtHM55ZNerRlg/LYWFLiLMkos8qPUtjGqVGYktprqazLHQ7JNgpIipI0DbKHG/gpbIokiJwQ5dv8BWUJkeSZyVjs3G/28oTt+55V6H2nC4EWKyu1KquWGVP2g+ZkC4MiKyK6r2WLdurRRd/s9u6f0pR4sgOrLM7z6dlgJWu9+TvqOLLj/OeDh+roueY9KaUaO44D6alra6mCy34e4zCO4UODUGllxg4H6NhJdvIbGhitbKWd4LFBBXb2dNwNld4LuoaPwJSAT2ygm0YbMpmxasjJ7GxvaNhoLEglZF3jgKoi5zh8RZAGaj1SejZXTAFHYHVNW0MBfFrbLU96ZYCP4ogWWqkwoOdSXFdUyfx62+UmliZCKIHVs+n3Mm5g59G+k8a+dRui4TznL2d1VOdh5jMuYn+D29xnRUj8iUzEYZ4UYRz+Q/7iIHZw5UWQLPwtQppvFyEqNlmQXVSW0N/yl4f5fwVwWVU1ubULOTPmFniGybS6R0fdsz06E34ZWXve8R/GC1Ss9c5wr7hLdYR57iteK5ID8UtLFMDMLVzt7/bTNbyGq9393e5+un6BoYcfucGBtA==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '7dc3835d30eeb652f1bdde15a0e912bd'}
+============================================================
+
+--- CHUNK 16 (738 chars) ---
+Common Student Difficulties:
+
+• These concepts are difficult, particularly the concept of the indifference curve, marginal rate of substitution and why the MRSxy diminishes. If the algebra is too daunting, stick to the intuition.
+
+• Students were exposed to the budget line and utility maximizing behavior in Module 51 (Module 15 in Microeconomics book). Once the tangency condition has been graphically explained, show the students that this outcome is exactly what they have already studied.
+
+1 The material in this module does not appear on the AP Microeconomics exam and, even in college, is usually taught at the intermediate level of microeconomics.
+
+© BFW Publishers
+
+Module 80/44: Indifference Curves and Consumer Choice
+
+407
+
+407
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 5, 'orig_elements': 'eJy9l91u4zYQhV+F8FULWCpJUSKZu26KBQI0aNBN0Yt0EVDkyCZWEg2JSuJd7Lt3KDnJ/hhFkMJ7E9jHnCE55+OQufm0ghY66OOtd6szsmooBVrrMhNCykxAxTNTFSajBRRSQk2bUqzWZNVBNM5EgzGfVjaEwfneRBjn763ZhynebsFvthEVLguJMQf53ru4TSqjJaq74PuY4m5uCsryYk1YxWWu3q/Js1BVuUiC5jxnR4U5BJXVuB8jdGkvV/4B2nc7Y2H1GX9wEMFGH/pb25pxvN0NocZhNNdlKQUOaHwLcb+DFPvm8ipt04+38BAHYyPM5dmZIXrTrubd9JvJbOYt36yg36zS7DtUbvupq2FAvUzzRsyQYs9D14WevIuTw3qT33zTeDu10cN4lhI+Tn3tYzuv+FtvqKkY2BIyzZoiE06iN6KqsqIEtEYWRVVWp/OmKvIyFVqxpfKPgpQil0lgmsnZre+VJeiV7lRKq9O788/EKefkegsjEBt6C7s4EjMAcY9Grck8AX40Q7sncfs0kIRm/ur7NBgGQJXYabiDNenMsMH6t2RAD9LAcarH6OOUNktM78j9dkl2+ee7hz1O1/nej7iOnFwsaU27gXowxI8khkCcmfro+82aYB77AbXD5HHyKWn+JU2/+zFepJIfAaqBSpRFAVnBnctEzWVWC2szJamyjZbWOXtSoNRMC38GKgma0bxa8BE6F0eVJeiVQCn6A4E6HPeR3CMWBB52YQT3aFk9uQ1E0voeZhKQidbHPTLzgBR8RI9JDVtz58OA9pLL4KYWSMnIT4ePrJx1b4cAyGLovB1JHcKHn3PyR4IwzRJx6UjkPtHqZkLI1uAwgJ5sBrPbemtaBBoX1xpcikOwtuF+jh0flx+3JuIfRBBttaGDRCM8YKkw8n75EfaY+C7xOoBx+znYg3sxj7YGrqXimaocZKJRVaYYyMwpYcAK0LUrTnr58DXhhaY5e7x8kiAUz/lMn8JP6qiyBL2SR4F7Pj2PLPU2JCvCgCkSNrOb3QKSCzCSPkRidjswAwn9bP+vV9/ChZZ3idU1gTvkB9PY0LawwU6H2aZxmlGKZsLqk4WK1Jlg6MD51AFbjGtTH+y+SvwVJG9DwIhjiCjOG13IItOipNiyCp7VZQMZp7aoeUWFLeQJESlyjW6X2Kn0gshB0EVOk1Diu4QdFeaQVwJS8Er+iIZFqdHkzdu/ydVUt+kKGsaXuVLWTUllIzN0xmQC3ydZrSuZVZQZJQWtnWYnc0Uynh4ZWGK+1PxJ0Cwv52NacpXT48oc9EpfOBXs9L4cWr2ivwhxRi6+fGKcpyfGOF8d56Efpw4Gcr4NHlf+It9sybhUts6Y4xU23IZmhgqdsQa0s0UlHXMn8w2bpzicDbZ03GdF6YNPeNbz6rgyR73WOXxJnN45QeXLfJB4v9F03ZVNIfBlr/D8GKUyR6vGVE3DpCpP6IPWy1mQTz4cFOynyz9iTJd6vgy/V5ao//ThSJn/by3/6i1ufBMG/xHcdRrz+f2/+76CkQ==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'd35334eb775fe8cd0ca9629b3ce74561'}
+============================================================
+
+--- CHUNK 17 (954 chars) ---
+In-Class Presentation of Module and Sample Lecture
+
+Suggested time: It is not recommended that the instructor cover this material prior to the AP exams. While Module 79 is readily accessible to instructors with less experience teaching economics, this module is quite challenging and requires a fairly extensive background in economic theory to teach well. lithe instructor is more experienced, and has a solid background in this area of microeconomics, this module may be used to challenge advanced or particularly motivated students who show an interest in continuing their economics studies in college.
+
+-~
+
+~
+
+Mapping the Utility Function
+
+A. Indifference Curves
+
+B. Properties of Indifference Curves
+
+II. Indifference Curves and Consumer Choice
+
+A. The Marginal Rate of Substitution
+
+HOOW
+
+B. The Tangency Condition
+
+C. The Slope of the Budget Line
+
+D. Prices and the Marginal Rate of Substitution
+
+Preferences and Choice
+
+E.
+
+Preferences and Choice
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 6, 'orig_elements': 'eJy9WNtu5DYS/RWin02B90veMk6CGJjZGOsJ8jAIDIqkuomopV6J8ow3yH77FqXusXfcycZO5JdGV4klkuew6hT14ddNbOM+dvk2hc1XaCN9wzXzEmtOAxZGe2w0jVjTxkTBmbZNs7lAm33MLrjsIObXje/7IaTO5TjOduvu+ynf7mLa7jJ4mGYKYo7ujynkXfESY8B76FOXS9yHD8zQSl4gqnilfr5AJ5tRUtFiU25Ixc44lgjwbMb7Mcd92cl1+hTbm4PzcfMbPAgxR59T39361o3j7WHoaxhGKisY5TCgSW3M94dYYt+8uy6bTONt/JQH53OcwTm4ISfXbua9dNvJbecNf9jEbrspsx/Ac9tN+zoO4Fdl3gxvKLFXHb4sE6PrIY6AtytrQX2D3vVhaiNyXUA3bn+Av29hodMQyzSnBb1PuZ338SVfIjhjGOFYEk+w8JFgF3XEvCaEUcEdX5UvUsFAJs2Jr9mWXFV8psfy844l4oV8GUvY+nzdTFsYDS9COe3jV+gqozSirs9oiL7fAwWhPNu5DD8RpW7Mw+RzPyDf38UBnDB8DxAPsAJ0GBI8yf089utrFD+5/Vihn3awidMJ0LbMMEQXUnuPnPdxHFMNDyDs4fUj+pjyDrXwEN5ygNfHzsOY6PwudVsEi+v6ffLjxXEJy8vh37+mlCPyO9e2sP8ytpy5IYIfjiRyqHFpgJkBgNiN6S6i2vlftkM/wbDUfX5z2UM/3M+7KbOij7FtK9SmL3CYJx/io1WGi3nKnSuzjX2bwhdTzCt2AEFJDJhq6H9nO3t3j+qIprFw0H/eFKRRuHNlJgQLmOn3U+vKrvZ9Tneu8DnmKUACAZC7Ho27/iMsCiYHpoDvsgqYMqduKgjBltLwgOkcmwCseRRMuY3V4zT9hxsGSOy7+L6cojPp6pWGWiUlbmpaY6G1w45QjuvayZpI5QnXq6UrtZJXBLJPqIos6Xh0WLM4GGHkvGMO+cOEPZOPz046/J/HaP7Yedjzth/Sv2P4PURrSxtLmcVN9AaLpia4Bogxs5IQohvDRb0iosrOgqRpZRdEFwen6gRgiXkwKZGVOQWsjufz4aS2qTWPgKRVFAsF+u+01jgwZhvRKO4VXw1OyUU5bIqKBa2TLdliW0PO2vP41cF85w6HY01AP+YE9e4efTd1s0g9H+foQS0txUEXnHngUAg4xb52QQkAWdKwIs5zX6WkXGT5aGtoq+SMqyKVfmov41+o2tQIub5qf12hqy6kpoFiXmTxchruIPoRO2/TmK/K4s+QIhvHg6MWM6MhA4Tw2ApHsGq844Jxrw1dkZS5FitrK7GQMttaiqW5otA8VeKMY4l4IS1Ma7E+LW8qaHt7aANyEU/Q9r9AEq15JDV3WDkisAiQPqCcEYemIZ6KmjRhPZIEMRUFDgSrdOHgZINempkTRtnM2hPHHPEykrSlVr/CDeXqbPLMLdtl343THtray12ffPyzXPFgNFFK4TpyuE1S73GtJMWKGBlUgOaCr3c7kZzN3Bi1aPPRNsDEotVsIe+JY4l4aUJJ9Qq3Sahz70GG3rkBGnm4X/wT0Cp5dTPVY055+lKT/pCkaKUwXuBAggLdlwzoUg2OVFkVjNV1vSZJcsmXz5I/29bqo63YOXsZv7rkf//DDz89W9pliESQILFULsKVXNfYiLqUKsMaUUPDqtfEk5f+08A9m5xUpNhGH7+YEKULgE8dc8RLP6FwZl5FRcqhfw9xUJ/uS1EK6TknPQSrhWoMDp4xLGQjsJPeYSqi9KD9Tc3Zqs1tYUKLRTqOtoXea/k2Qrku30aeOJaIFzND7PrMXC7M3LSg8aUMlRb5zRS2MaO3qfvTciEE93BVgqaYCLgds3Ix5iFiW4tIg5I+ULJq5kCHClr70H8VW8ulCaZcyaIOTx30L/Rf3Aq1Pj/flP4LdHsR8/x3KUcjiYrBUMzhooiFa6DSaVAOrqIyCpLJqTUr3ZI/SiyF7GRD53UsbMALOeeYI16aT0S+Qit2PcRjE3Zsv57VdYUaipqWFkPT5aHMKYkNiQQzpSV0Xto1zXqfRCRcT0zJEnsUoMWewZ+vLdKqcmt54lgiVpf0b6tnCzpTrjE1k9jqBu7quiHYOC4xN0XMXS1j7VfDU2ld8Ud4Hu0H+CgR6n8RPnleCdH/f1jPoPzzfwF+S/8J', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '63a0825c4c2f5cbc947ca37ad310aa43'}
+============================================================
+
+--- CHUNK 18 (348 chars) ---
+Note: It is possible to cover this material in great depth. These lecture notes present the basic theory and applications of indifference curves.
+
+I. Mapping the Utility Function
+
+Consumers receive utility from the many goods and services they consume. Economists can study consumer choice by focusing on the utility gained from two goods, X and Y.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 6, 'orig_elements': 'eJy1k9tq3DAQhl9l8PXa+HzIZUsLuUgINIWWJSyyNLYFtmQkeRMT+u4deTchlKUXgb2zP+mfg/6Z/WuAI06o3EGK4AYCLATneYFhJ2IM81qwsGFJFiZciDprqqYp62AHwYSOCeYYaV4DrrURUjGHdvsf2aoXdxhQ9oMjklZpSZozfpbCDZ7GdU101lI5r9vv07qIkh0kcVNF2dMO3kFCIPEgaZIqqi+Sk4hQYFfrcPLdPMgXHH/MjGPwhw4EOuROanXgI7P2MBvd0rU4aqqy9hV2ckS3zui1X+4efKPSHvDFGcYdbg80M+MkG4OtH9UvrN+a3geo+sBnn4kc1DK1aIiXPq+jCF57rx3ewK0DaWHW1sp2RHAauD6iATcQnugRDcUHqaA3yBwInN0QweOAFmGk+heDoCgSxTDElCMlQsus5P5LmxWYEsDmeZSc+XYt6I4CCtl1aFBxBL6YI9rId/HW7z0zhm4f8dFXS2X/Oxpx2rKsyvOw5I0Ic150YROLKhRt3YqS53GV5FccjWqbhDRLovQ0GmdAI1J44Ocgvgg2yecGo87TIrn+YNxGcEd+SdVvXv50cpRuhe+L2qr6aNOjdCNesifnregE+VHxrAvzjGUhi9syLKo0L/K6KFjZXNWezL91lUXNmz0eZFV6AklNdlQXyUn0yc3Nyzi7vkFfaYmWCY0FgxxpSWA5e9QZPW2mTUyt0Gst7LZ+Fs1RclpSOltpwzd9BN/oS0/SOgucKbBuEe+nBvigSQMthdV8sX4etNqiv6XrmVQozlmf9SnhDn5tOX//b6Gf/gIMRtcD', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'e324be87d9f7dd1837b9ff42e1708eb2'}
+============================================================
+
+--- CHUNK 19 (802 chars) ---
+A Indifference Curves
+
+A.
+
+Indifference Curves
+
+Imagine Sammy is a consumer that is shopping in a grocery store. Sammy only wishes to buy bacon and soda. If Sammy buys a lot of both, he will be very happy (he will enjoy a lot of utility). If he buys very little of both, he won't be very happy at all. But what if he buys a lot of bacon, but not very much soda? Or maybe he buys a lot of soda, but not very much bacon?
+
+We use the concept of indifference curves to show how much utility a consumer receives when different bundles of two goods are consumed.
+
+The graph below shows an indifference curve mapping. All bundles along indifference curve U1 provide the same level of utility. Because bundles A, B, and C provide Sammy with the same level of utility, he is said to be indifferent between them.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 6, 'orig_elements': 'eJy9VU2P2zYQ/SuELm0BS9AnSeUS7Oa0h7YBskEOi8CgxJHFQiIFiVpHDfrfO6TttRt702QB78Gw/ThvyJl5fHz4GkAHPWi7VjJ4QwJRV0WcMhZymUOYy6QKuWhEWPC6lhnlNGd5sCJBD1ZIYQVyvga1MaNUWliY/P9OLGa26xbUprWIpCylyNnDWyVt69CYc0QHo7R1vIeHlLMIoSSPWcQ+r8gRyMqIO4BlRUQvAp6CSDAtk4Xe1fJefYHuwyBqCP7BBQkWaquMXtedmKb1MJoKw+KIF2VcYECjOrDLAI57+/t7V6aa1vDFjqK24NsziNEq0QW+Gr2ZxcaX/BCA3gRu9wGRtZ77CkbEqdvXYgbHvSF3WqqmgRF0DeTdPD4i2QXs97xXtvNH/XYoDWtynmRJyBvOwzyPRSg4T8OMZhwKWdCaJVcbShbzKHMdTuPdUJ4AmkSZB4p0N4MzwFO+O5QLPf/5xkanXfyoa6x5Y0b1N8h7F3Kho5xCU5VNHUpIRZhDBmHpfqG8U1lUTZ7K5modzbM0Sk87+gQcGshoFpUXgdfp6P8I9YdaDCVPRJylIWWFRCcpcxRtjJ7CiirnIpasup5onXEkrl/53icOAM3w2wFJmdBnkB3pZV5SFoy+gpfc9WKjNJAPou8XoiYiSG30NPcwEtsK66CpNcOg9IYojcub0dQwLmSyZoRoTzS6W8hWTS1MxBpSzQupBCYiQksyGSkictfsY3HRbdMZS0xDKmPbFWkB2V1HKiCPLnkrhmEhvx5g0H+Z5ciZreqUXX7zSTHGZ/Q8hNH6/pvX6F/sN4mxLtF1EbmdLdn6Ko95jidzBawQtEQj4un9XLe+nrfkz5H0YsG8Z0S3fonnE7491f8fYhyFVY/wnPaznAqWiDLM8gq1j89oWFVFEZbu+UxKShmLr6p95yY0pUftO4ClRZTvlB5TbyfnyI70Qu1nxWto/xOQeQKUOTjN1zD46alTy6q9ZTlJ4yXYEvfxo9wr8PS2jFCDcsHbFjQ55EDlzVp2CGNquzVkY4xErYxwYMropxRByyLJaEnDOHYeGONbw7M4CymkGfCCFSIvrqgI7o2NFTxKd4rYAWWcHrwvLf2TfY7sSC91w4SV11fEPUphM4oB7yp0OGs3dByWviAKvPzeFCNy43xrP2TRGe+TZ9EfE4LFPCq509skeiAdPEJ34mfoR1ALJ8lDupsVuV15D333RN+Z6FbZ9vlM3viccwslvR/DyZmcGdotoEiR339PfZ//BdzHpqQ=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'd33749b6a7f2ca63226cd40cbfce0c95'}
+============================================================
+
+--- CHUNK 20 (319 chars) ---
+Any bundle of bacon and soda on U2 is preferred to anything on U1 because bundles on U2 provide more utility than bundles on U1• Consumers are assumed to operate under the premise of "more is better" so more of both bacon and soda is preferred to less.
+
+~
+
+408
+
+408
+
+Section 14A/8A: Enrichment Modules
+
+© BFW Publishers
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 6, 'orig_elements': 'eJy9VU2P2zYQ/SuEzkuVX6LI3DZFc0uxQBr0sBsYpDiyCciiIVFp3KD97R3R3sV24xbpAu5J4iMfh/PmDXn/tYIB9jDmTQzVG1IZ1/RgbU87pxuqOi6odcFR1QQvexe4Daa6IdUeMsLZIedr1aU0hTi6DHMZD+6YlrzZQdzuMiKiFRo5Z/i3GPJuRZkxiB5SHPPKu78XRtf2hnBjRc0+3ZBHQDCpar0C3LL2MnImIVTNxznDfs3mLn6B4cPBdVD9gRMBMnQ5pnHTDW6eN4cpeVzGattK3eKCPg6QjwdYuW/f362JxnkDX/LkugxFoIObcnRDVfIZt4vblqTvKxi31Rr9gMhmXPYeJsT1GjfjDiv3djwSv4xhAJJ64l2XRuLGQOYUHMH/j4LEmRwm6GGaIJCccPqYd3HclmlOPHRumeG8y3wmYR6fYwCyTxOQJcch5iPJOzf+bR1/WAQTgvyYxnnZwzQTh8tRBxyUWOkAE9aQIAcm5MN6lH2cy2kfqrI7ns9DzjA9VHjsU8Q1l5R3LxN6mQqeY65X3R4V/tlNGC9+hl9WfVCol2bseN803CkqXc+o8sCp7YKkAhSXvWaiDd3VzMgtmg9NwaUStTxZ7RFpea2KPwvr2ZgLVrMnzr+a8YLX/rOh/nwu58exw6S3aYq/Q/gnSUXLbbtqqBzvsav7HvvbADXOeG+V9Mr3V+xvW0ts3kZjy536+wzgtzT8qhu7CBTKK7tbcGWv392KmefleJcStsmlGjhnZdtwQ03gaGvTGuqDD9QKwxWzbdsJebUaSGbLBdq0uuZF4TOg8WsKoE1tLgEnytVN/ULH77K1ZcID0y2VfY/eBm2otRwoSO5ZYL3l7nq2NpKdJEWPNqtgT4Bl50dKan2y8bdIIb3O2K1quL6+sT+cohOubn8wt2/IT+MUu92qPnmfwoL3+vf5nrfCONFrGsCi74Ox1PfeUC2V1MoJKd0Vr3OtdN0UwcW5BE+I5ae6ccv5uUzfIIX1yvtHafk/3D8PC2POkrfvfiV3ix/ivMM3/lJlPv0FZLT6TA==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'e7c5066ddae35ac360713a7d74488541'}
+============================================================
+
+--- CHUNK 21 (706 chars) ---
+r
+
+Soda Bacon
+
+Properties of Indifference Curves B.
+
+The indifference curves in the graph are intentionally drawn to reflect properties that are typical to consumer preferences.
+
+1. They do not intersect.
+
+2. Indifference curves further from the origin (to the Northeast) represent higher levels of utility.
+
+3. They are downward sloping.
+
+4. They are convex.
+
+Note: The instructor should use Figure 80.4 to intuitively explain these four properties.
+
+Indifference Curves and Consumer Choice II.
+
+Module 51 presented utility maximization. The premise is simple: once the affordable bundles of goods have been identified by the budget line, choose the bundle that produces the most utility for the consumer.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 7, 'orig_elements': 'eJy9WFuL2zgY/SsiT7swMrpZlvrYwsLAthTafRrKoJsTgWMFW55Ly/73/WQ73ek2LbOhmUcd63Pkc3Q+HeXmyyZ0YR/6fBv95hXatNZpZlqDg6sJFrVpsLHOY+9N7UhoneZ6c4U2+5CNN9lAzZeNS2nwsTc5jPO4M49pyre7ELe7DAhrOIGaFb6PPu8KSkkN6CHFPpe6m5tGV80VYpxU9acrtA654JUoQyrUqfEyHYDN+DjmsC9f8T4+hO7Dwbiw+RsetLEL+fEQyqPXb99v5rX028ls5wXfbEK/3ZQ3HAC57ae9DQPgTanN4aF8wmYoVceX/NU7+NhtGuLn4D+WGTD1v1R6YakC0rD0gmKhZcDWWocbz4W0tbOWk4tRybSu5BWiNamaQtY6VppXbCaP8aaiJ4Cl4qd0+pCDyzH1t64z43h7GJKFaaTSijPxi/j+kLxBCL02LvUIPSX/eg9VpwinnCouy45tdI2FJDUQTiiWRLVSUqGNohcjnBNedqMWrFKFz+NYs0rP/BJCKnYKmCvOI1wpRehpwuN4C0wOxuUwk3MwQ46mO0uL90M6BCgPI0otuu59bNswhN4F9GYa7gB+XT1V6GPM3UmFWmG9lbTFyqsACnleLGEwk0S3TjFLjbigQmxWRMnFEuuYktJnZkUUWICdQpaaM00hmeSX1+jjLqD4VBm3KBN7lOHRdjCHHTJDmZRBEFio6bpH5AdzDzMSGkLbwQegw79a553JcwksOzrTlWngxnHahwHmhfWXxm+0f2eGweR4F37UFnVDhSWixo4xC3vABqwEl9gpUbtaGcsvugdkBR2KUqoqumyCFahVRQoglajISWAuOXMPUOg+l98DtEKwDUDUhPqUZ6WHEVb0jUB/xjFfl/Wf0IZbatvGBBy4hQ4aFMfatQxDILCSM+oaVl+0g5Yji0pW8WMLLQCjbD2jFBWzZb9HlqIz1RGc/uDY+pXqsOrb1rkatJ0GMOiA2iHtZ6tCqtiCa38Dt5Xhu1SemzH/Dh4F140gF9oBt1DThbvQzU15yrGL+fHZSrfOBgZtDZNAGRY2EKzAmZD4iCSN406o9oJKi6ouMhbzLUqvQL0CipJF6O+AueRMnUFmeXmd+erC0jl9uu/vzeDR2KVD7LfP1qcJDVeuqNJw6JJGeWx8UJi3TEsrWm6YvKg+bGafVvKoTwE4RJYZkFyeBpaSM/UhXL2AD8UTfeA4uwsPz1aFEt4woyluhAdVAuhjmJCYSycF18RqrS7aH4tJONfHALMCSq2RUkpd8dPIXHRufyTNC6TMdymHV2jJMWMeJpfTgMZdmjqPpjGgP+J2AskUqURJIsDLFEvQgBQTHg6dWZIOTGzTNDzJMf8vngQnmOGSYFIrjQUNDhtOJba61kI3jWvay0qsQC3B9LExrkCj1kRKa/YjZC4613qkeQHrnbo6mN6jN8dU+WaXIjy6vn7efaLRTLdSG2xlC2KRAFlSC4frllriGRxt6pJZks/BUDR0MdsRqGW9/IFBdS2WO/V3yFJ09o1Cv4BYb5OfuoBqitbUEfwxZqC9eYj7+NmU5c3ttMzZRzBfHNEY94cOrJyKyiXCmLYFyo2Ft9mp991yj9ym5Ee0M3eAhtCj6Mu9pI3wM/ZxrrOT34aMutiHK+R2KY1hxctLlvsJsOInN99WAtqnMX9dI/zmDB6vLD/rA5/+AVaAwVw=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'a91188d18ca62a61b4d8b7d43df0fa29'}
+============================================================
+
+--- CHUNK 22 (962 chars) ---
+The Marginal Rate of Substitution A.
+
+Suppose that Sammy currently has 1 package of bacon and 8 sodas in his grocery cart. We ask him a hypothetical question: "If you wanted one more package of bacon, how many sodas would you be willing to give up so that your utility is unchanged?" If Sammy's answer is "four sodas", we have found his marginal rate of substitution between bacon and soda and we know that he will be just as happy with two packages of bacon and four sodas.
+
+General defmition: (MRSxy) tells us how many units ofY a consumer would give up to gain one more unit of X, holding utility constant.
+
+Mathematically: MRSxy = -(tN//1X) = -(MUJMUy) Intuitively: The slope of the indifference curve at any point.
+
+Note: the algebra is presented in the text.
+
+The MRSxy diminishes as more of good X is consumed along the indifference curve. This means that the slope gets flatter, thus producing the convex shape shown in the graph above.
+
+© BFW Publishers
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 7, 'orig_elements': 'eJy9V8Fu3DYQ/RVClyaApZASJVIGiqI5pEgLB0acNCnswKDE0YqNJKoilfUiyL93KO3GMeyLDWxuu2855My8N4/cy68RdNDD4K+Njk5JxGrBas1pLItMxBwaHcuy0rGoa0pLIdJU1NEJiXrwSiuvMOZrVFs7aTMoD2753qmdnf11C2bTekRSkVGM2cNbo30bUEZzREdrBh/iLi8zmifZCWEFLZL00wm5BfI84QFglMmEPowsQQhFbuc89KGac3MD3cWoaoi+4Q8aPNTe2OG67pRz1+NkK1xGE1kWosAFjenA70YIsS/PzkOhxl3DjZ9U7WFp0Kgmb1QXLfUMm1ltlqIvIxg2UTh9ROR6mPsKJsRFONfjDiH2XQvkTE0bbFVH3mK7iG3IxVw5b/wc8iK/J2HjQwrvjO+WzO+xlLM84ynERSVYzIVKY8klxKziMq2rtBJaHJElnuSh4VwmYmVpBaTgK8DKHHv6ILIGPY2lUrL8+CRdzONoHRDfKk8uVN/vSD1PEza/25FWOcIIpvoZNwjsVapG2tSgiSTOavzZDKQ1jmwmW8OEsZhKQj4AUe4z/tATRdrdaH0L3tQog/9mcKHYU3IVvW4I9p5s1YB1EDsA6e0E9447Ia3dkl4Nu/2RWzt3egmtgGxN15lhQ7wlG/MFyDziqrUaXDERFFpn/I5gjvNQt9ge0L9dRQQPX6r9xWE5bgtTWHEVNSFmOeYK27kFbAFuiiiWHOrsD3qe9np2P+q5Ar8FGH5oU9hq+YBbfR6wjiWzds075P/v7Dw2C88Zxx2iviV+aw9NcHebfpvdncF5oyZMB6t/F0h9YIC4YopC3qC5KR7zskhj/M7iRpQsLfOUlulxbS7FWcCjkvJgcwiklIrV95gsRRiX+8g+6IkDVOSsPP4E/QEDTKgIDU1vVm0/O3t7cbN7Tjx0HerO3Sp4HowPpP6Dg4GsurlH5a2CPsg3KFnhWH0fiBATdPAxTEKng9oPqg5beJyfx8khqzgHRou4xBsv5lWQA2N1nGVVXhZNLuuSHVEORbjAUsqLRK5yWAHG2f6OS3O+COQ+sgY9TQ5FmpXs+HI4U2h2vVrsrtudkkUK5FcSP/NvXrxgH58vn8/e/3n2HhXyevCzCVyFpeHCdJ0dF2PBXdBctWkaQDeuIdgyCgTdI+hoaegd1l/Zqf8Ldu5v1aHHPkS7ZEXJeCrjMuV4jTaMxxJyFuu00CqTnCqVHZ12JunBBVYgTeUKlPjGeRBYQ55Iei5kenzS31gPpwtlqttANalwm4wTOFjuNpzm8FtY/UjOBKOiooWMC0lxVBkUyJkSsWpYRhvIat7Io3LGAiNFkeQHzgKQ5XuKWJnJxbnvI2vQE51b8OInOPfyQF3GU5veDMa1eOHiXby4Lo7gxlpNPgYq91atkV4bHhsPzmaCAxyeCIAPivWe998HegNo+02nvIfpBPE5yMPquTb77fCEL3BDHL4DMAbvi+Ggms2kxpaoyuIJj7L5VGvKG9HESgP+uWkoxFVTybjhhcI/OUXG6uaI2hEJUpjmKINs1c4eKHHuA5ALtnj6fWAJeaJyWFb+hFfz1UypKsnLVx/I+Vx1QTmTuzvZ6AhT9O3T/7ZMd4g=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'bae673c27b0071251e09ab61619ae33f'}
+============================================================
+
+--- CHUNK 23 (660 chars) ---
+Module 80/44: Indifference Curves and Consumer Choice
+
+409
+
+409
+
+Why? When Sammy has 8 sodas, they are plentiful in his grocery cart while bacon (only 1 package) is scarce. To get one more package of bacon, he is willing to give up lots of soda (4 cans), because the next package of bacon will give him lots of additional happiness (the MU is high). But now he is down to only 4 cans of soda and they are not as plentiful as they were before. If he wants a third package of bacon, it won't give him as much MU as the second (because MU diminishes), so he won't give up as many sodas to get it. In other words, he gets very stingy with his last remaining sodas.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 7, 'orig_elements': 'eJy1VE2L3DgQ/SuFLzsDba8/5Jady0IGAiFMCCTZHIbQyFa5LdaWjCRPxwn737dkd2aSTbOHWebU7aeqV1XvlXT3LcIBR9T+oGT0AiJWdnXTlG0seJXHrGH0j5VNXNdp0aYd5mXVRTuIRvRCCi8o51vUGmOl0sKjW78HsZjZH3pUx94TkvMipZwzfFLS9wHN0pLQySjtQ97dHc/2CdtBXu7LhH3ewSNQl8k+AFlZZAm/jKxJBEVucR7HMM079QWH95NoMfqbDiR6bL0y+tAOwrnDZE1DYWmyr+qCOKJODeiXCUPuy9t3YVDlDvjFW9F6XAWahPVKDNE6jz7O4rgOfRehPkah+kTIQc9jg5ZwHup6Ygi5t0bOA0KV/s7YC3itpeo6tKhbhJvZ3qMDoSXcGO3mES3c9EZR54Hg3NMrY8c3uLg/xTBTWeL+t39NK1OOTMRcdmXM2qqJm73IY+yqhuxLZcbls/mXVRVP6tULlpSrOw9IXSTpitQsT/LLyJr1NAepTpU9v4MsrX/2w3gKuuBDKosM86aLkX5ilqd0j/aMx7KrStZ0FU/5892jrE7zpAiKcpbwTeMzsk+r76rv8/Xe/IpsWf/pwwWZ/6+WH3VLgx+NVV9RfggxF2QtRcZ5m8q4KLo6ZjyrY1HnddymWVXkWLMOiyfImhcXZE1r9rOsOa8TUppenE2w8zfLy6TYBKTn6hKwZTxtsWvOqvJZFrv60YxP/fIHfOpRw3sxjgv0wkEFzkjhduB7XEBYhGkgK1Q3D6A09MrB0ZoW7QItlYZTTz1CI1qj4croYYEMaMC/qOo1ULCjqBYT+GDgiB6MRhhNYN1iwHRb8g56DPEnNQxKH8FTvLpHmCcYjHchLjQGV4zqane9gwZbMTsMjYKmiX6hXLk2ll6NDzRCShVEFwMNPE1Ko3NwFVhuP4YOetqQ6wRezh60OZ3bkuakQ0/rhFsLDy2F9/tBLW08kIyPotHHeniiR5967mj4BF53gfckaMtA0Lmy8oIiiuQ1+jf/OAORjXPbh043XnBIoRKuvqtBJ1KNSivXY1DJmbXSIw0JGliEXjanV6XJGeWpLQ2GSC3FW+lWS+jIwX2w23nyheZQvl/XgFbWg8VRUDEybCVLfrzcb4W1wlPN7WJ//ge5t542', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'bd53779046c393b98d3f2bd3eef10e12'}
+============================================================
+
+--- CHUNK 24 (886 chars) ---
+B. The Tangency Condition
+
+Note: Module 51 introduced the budget line for two goods. The outline of the chapter is condensed at this point to highlight the importance and properties of the utility maximizing bundle of two goods.
+
+Suppose Sammy has $50 of income, bacon is priced at $2 per package, and sodas are $1 each. The equation for his budget line would be written as:
+
+$50 = $2*Q, + $1*Q,
+
+The budget line is graphed below along with three potential indifference curves.
+
+Soda 50 Bacon 25
+
+Suppose Sammy began at point A. He was consuming lots of soda and very little bacon and • el\ioying U\ level of utility. Can he be happier?
+
+• Now he makes a small change in his consumption by purchasing less soda, and more bacon, and still only spending $50. As he slides down along the budget line, he finds point B on another indifference curve, U2, which make him happier than point A.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 8, 'orig_elements': 'eJy9V9tu3DYQ/RVikad2KZDUlQGKIglQNEATpIjzZAcGL6NdIpKoSpSdTdB/75DaLYxk+5AFti+2Z8QhOTxnZo5vv26ggx6GcO/s5jnZaC1VYW1F87JltChqSyVTNbU1YyCEsVzAZks2PQRlVVAY83VjvJ+sG1SAOdmdOvgl3O/B7fYBPaIWOcYc3Y/Ohn30Mlmgd/RuCDHu9lY0PKu3pKiKrP64JSe75FXGo93k5Tl7XY+OzXyYA/Qxj3fuM3TvR2Vg8zd+sBDABOeHe9Opeb4fJ69xGcskzwVusWldB+EwQox9+eZdTNHN9/A5TMoESE8zqik41W1SJsNuUbuU7u0Ght0mnj6i535Yeg0T+pt4bsAd0pYZudkDucE4GMyBvPKDdfE+cbfTuTcudOm634JipGbQSkGrUhtaqKqh2jY1zYWCRjd1ZTS7Iigsa/DRWZmJFZRkV4xnMtq8qYssP+NYIy6Eparz8vqwvPUBnpM33i4dIK0IJj2hYcCSgHDpxe4gkM4NQFo/kfDoyc57O69o4rulT75Nq81ejQEm4mZiEF4YZtxGBfyGnvSgJHiyx+fvIgQpxvWjn4IaDBA1WIL5j4DpwHzadAmuc+FAevXZ9e6LG3Z4q8F266n/3ucpjd6qaVLBPcBNzPIcnXLVcl6VFHSkk20LqhUYCqbQNVSglWquSCeRcWRL3mTFSqdk13mx2rwRImNnHGvEhXSqeVVdn07vl3H0M5D3qu8PZK9m8qxkESg3GN/DlmiFzIgEGSdnVnY8EwQhJ5jDJ9x4m2gwe4uxagLyjBNQZr/yDf5aVMwucTGS6ik/H/3SWaLxj8mFAANR8/MfYkVjoFa6rCh2ekELZgxtSllSXRjDKi3zqtVXZUUEveZZeWIF2g1nGYt2xc/a6/rLOIG0KuT1OREZ8Aui/NOfW/Iz4om/n8Lym5/6pVPnAGG8siVwSRUOXVoA9v/GAtCWGy1bY1mu1BUByTOBD17KU9dPtkQA8lSVpajj7P3OsUZcOozrsrg+JDfftHaspN2kxj3E+un8I1Gdxz776MIee/AEgN0bKyqeh5VsXdvCBLFlm2V6gB9svjZXudISaF3bghZ1aahsGdZaxRqd5zjNi/Kqsxw5L7GVlqdZjjavJVth5nmZx9n9vWeNuRDXppH/UWo/3mOxNxKC4gJ/vEztlBBREvIUhNc9xp97/EpUsmxMS3PWlLTQrKSKM0CdW0idKxExuNrj50WdoabhTS6zKj7tySFRxh5HHT4yO+tZgy6dflUt/u/pp2GnhjjgVuXzIiO/42xSSRvNSx+FTOdD0jlx3KW59wDTAUsyoAw+jsrovVsEE4JAd3fn/CEGfri7Ix08QBejjwopI6/wvFjZgJN3HB1Mvz7lxB9uDq/jw52hRVGz2GoVhbbgWJNYjtKWijLeVJZxLTRcTxBFFqyY8xXzo0OwSq5VyiXLo+T+3nMMurQqRd1cnxZH+N5iX0V0evUJxa0ic6+6Lkpm/IcIm2qSMyszxiRx9IGMy4Tf58QUmOdEk1Uf9X46EuSol5ACyIWhO5B5BOzQGIJzNyMv5njm3DmLh1r/OBxb+zfifhtXtdjaTzr9JUnc87huOtPyt+QD1tPj3pl9Sghv359Ih3sjD0+kP8/Aj/8A4g26Mw==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '75f06fa9a236d9408c74d2658722f37d'}
+============================================================
+
+--- CHUNK 25 (725 chars) ---
+• He continues to make small adjustments, more bacon and less soda, along the budget line until he finds the highest possible indifference curve that he can afford. At point C, he enjoys utility U3 and stops.
+
+At point C, the indifference curve U3 is tangent to the budget line.
+
+What does tangency mean? The slope ofthe line and the slope of the indifference curve are equal at point C.
+
+Slope of the budget line = -P/Py
+
+Slope of the indifference curve = -MUJMUy
+
+410
+
+410
+
+Section 14A/8A: Enrichment Modules
+
+© BFW Publishers
+
+r
+
+Tangency requires: PxlPy = MUxlMUy or we can rewrite it as, MUx = MUy Py ~
+
+And this is the same "utility maximization rule" that was presented in Module 51 (Module 15 in Microeconomics book).
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 8, 'orig_elements': 'eJy9mG1v2zYQx78K4VcbEKp8kkgWGIZ0WLENyxCgCfoiKQKKPCVqZcmT6CZusX32HSUnSBq3aDwo76w/eZJ1v+M96OzzAhpYQhsv6rB4SRbK5NwVVU6FDIqqsqqo0waor3wJoXQsN2pxQBZLiC646NDm88J3XR/q1kUYxuvGbbp1vLiC+vIqoiK0kGizla/rEK+SyqxCddXVbUx2Z2dS6Qw3ClYUGXt3QO4EwXhmk8CtYFm+U5mMUFoMmyHCMr3NcX0DzZuV87D4BxcCRPCx7toL37hhuFj1XYnbWGaNKARuqOoG4mYFyfbV0XF60Xq4gJvYOx9hdNDK9bF2zWJ8n/Zy7S7Hlz5bQHu5SE9foXLRrpcl9Kib9NyId0i252vBhCC/AfFdG+t2DQOJHVm6D0CGpWsa4sL79RATj+GALLseSOlwL3FtIA0MAxm64A6Ia7r2ksQrXF6HS4ikqVsga7xnQ1Cs6jYM4/IVEoAhklU3DHXZAMGVuqqgh9bjv1j3HwH3uZisvMPnVBWizMhhMkEu5JeDtATt+24zkDXev44bcirHPzTEbjVkyRO3PvuzHuLvyff41l9GVs4D16CAGlMJqipg1JWypDqXXlhRhbIUs0WWMPkUNtJmMoXNnWD5FGpccp7p3cpotF9kGaGZnj+y7vNK3HdgRmg1BgXeGZmksPsifB6A/Mv1vYv1RzhJD9hBUwMDkxtJQ5nyRKUstbpEmlpYo4vCVLKakWaRiQQGIW5pToLUOjPbrGC/okxGe9LEPDE/zLfpQIYObmn5DVmCa38mJ0hsaLoVkK5K9MZTn05ivLfwNf4Okwn8vXaYZO6C5WnMfSFLlStPQRQSmQtDLYRAS2llDlVVuELPyFxnbATKMjUxnwQltpXAsDxTu4TJZD/i2thnIP7mPrv7Kf0nQo9fHG+ehElWIpggKlpywKPpnKCm8IIW3CvtgwRV8VmPZpEgcDFBuBNyleVJsIWcuD0SRpM9D2aeW/vMnHacMcR1dPrH0enTgGE9LJRShrJSMqp4wRBdgcAMl8wHq3LhZwSmMvScyBHHNpduBYPVb2zCpBnL4GNhNNmz4xJYXucHpji7j+J110XctKue2dwy7TCjldJR5XnKbaykLhcC295caz5fPZNMjqUpxxaWjx6+FaydqpfEM6J2CqPJNxnscPH/9eNp6/GlL7u+/gThqy1CKCppQFItjKEKJwdqPbqUAx7WCrsHTEqzudSIfBvW+dTN3QkY3tv2rmBj3tmhjEZ7N3zWPEMmmp5OuDp8YQ5fkl/bvvZXyfvkqAtrnBW+L+6LXIArrKJWcsw9DDQ1XGs8AZ5XxoP0dr55jxd3mURnYkRwp2DZyKe+jaktpkfKaLVn/pFWPUNhP18z5ix59fotOV6XTT1cQf+dZMAHxsvgKc5NnuJcrmjJeJrES1NyL5wXbA8ychcZzvhDMrqYOic5nYzpUioxFQCuZBqevryets+Ri+x9n/ZPzkSSGwdgA3Wi5Ni4Mk0x5jET2eBKnFqQEczmSmFVhhLWuym3b68ljiHjNcfinzLTI2Gy2C+8C221miW8H6A4uZ1Pepws6h6Gl+T4pjneYCN0dHrTYCNEup5cT98Werju64h9UyRuOEgbxm0bgvv/fXgm+uW6cbtIcquClh5HkNwhyYA5y4hKUZw/sLktQsnMPjXle0nydAyUvO2UputcmG390HbsZB8Jk8WeiQqr5zyfph6QPBynyHoYvxGkadItgZwvbr/4LN1Nvaw/ubHm9FhezhfTd6NrN5AVgkdEELAl3lYfknPyw/Ynz0e99n0Hvmu7Ze0HUnbdhx+/NX6++w9aqzEm', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '7e24fed42eec9c1214ca1f4594a94016'}
+============================================================
+
+--- CHUNK 26 (620 chars) ---
+In-Class Activities and Demonstrations
+
+The instructor might wish to use a college Intermediate Microeconomics textbook to supplement his/her background in this area. There are many good textbooks out there. I have used or read parts of the following:
+
+• Microeconomics by David Besanko and Ronald Braeutigam
+
+• Microeconomics and Behavior by Robert Frank
+
+Intermediate Microeconomics: A Modem Approach, by Hal Varian. •
+
+Here is an amateur video lesson that explains these concepts quite well. http://www.youtube.comlwatch?v=UyorBbMSulk
+
+© BFW Publishers
+
+Module 80/44: Indifference Curves and Consumer Choice
+
+411
+
+411
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 9, 'orig_elements': 'eJzFl1tv2zYUx78K4edQEW8iGWAYmhTFgq1D0dse0iKgqCObiCx6usTNin33HUrOeok7dB6cvcX/8Ijk+Z0brz4uoIE1tMN1qBZnZKFBqAIqR0WRWyorW1OrnaE+z40y3OXM+sUJWaxhcJUbHNp8XPgYuyq0boB++t24uzgO1ysIy9WACtdCoM1O3oZqWCWV5QzVTQztkOyurrgVmTwhjEuT5e9PyCfBFJlKAmO5zvR+ZTJCadHf9QOs021ehA/QvNo4D4s/8R8VDOCHENtr37i+v950scRleWYLWRS4oA4NDHcbSLbnz1+ki4b+Gj4MnfMDTA7auG4IrllM92mXo1tOl75aQLtcpN03qFy347qEDnWb9h3wC8n2sqUXaWPyBE9xG4YAPXFtRZ7COrY9bpLO1qdP3x/idRia6exfcyprYRUTjnJfMypt6WhZlyW11hv0mnC65EfkxLMcXS6kzPjMaRakYZmcqFhmMrVXmY0O5GRy/gicXq+AhARk9EPsyDq5h2xDvyJDJGMPxBEfmwaWQC7bAbo1VAGdSp4H30XwsY3r4HuSPlfGeJOs+nGzmQGSVehPV9CR0vmbZRdHDIDQkgFl4jpwGcHtO0h/k7Vr78gyxurvb/UE0eBiXJGRS7Jyt5BOVBE8JxpXJN0bF9VpDanxlHEb2uXZ50H1q+tSqN3C63TfPcHFMNFlAZ76qjJUAhfUGYM/LUjNhC85mKMFl1B6jiVt5yJwLyhuMjuFkijMVBYeKrPRgcGluGXHD653I885/zpWyjvy1N2GipxD79qbONWFl7F1DUqdg3EIS7f+nOIvoR8u0xX3AeTSCucYLauCI0BpKPIrqa6UkzYXvDTHBcgmOuoTwEnQKivmmq1NJvYrk9GhAHMt/i+Aidc5YD4GzESk+TKi6UCedUjze7HVOXALpadK65rKotYUy7mm3qjCaStyBscr6omSmpiwTN9jS0LB+VzlsZjbKcseKrPRodgst4/RfL9Zqc/IE/I8VrAmTzZ4LOdXJwnhT64hb10XXJuRGfr3ggRfKA9M0AIgp7J2JXVCGYrjFORVqQsB7qhTVJEoFSwz91NUErSSM1kmGZ8y8qEyGx0GsuBaHZ/jT6k5pl7ZErdGZ40dwboJkTTQ9zE1UjcQ+LBpHLbw1AWxXyNoDxvsi7+PAelvoWkyshqGzdnp6Xa7zZJHxxIyH9fN1g1+9ePtD2/uYndePn81Njf/qnkaqxz2oQInaIfsmQdqJAaAqC1XSmhX6ePVXm51Qs1TYd2xn4Uil/McppRN3fShMJscmMJSsUeYy96Nee4sOX/2G3kxlg0OZNB9MS4/ixGTfB8VydH1VhvKdS12pZUrSXUpbFHZIsdEPRoVjb4WOxdPHfFeSBDmAUbxPBXbPcpsdGBGGiX18blg7RwbICY/lfIMR+Iq1DVmKeYcuRi7290r5wLfNuMaB9+LVQx48i+4deuf4a5/65oRt93DT+RKF6WvKDhXIT9AfhYLbJ7XHFRueSWO9y5lRuvU5iYWbKJzrxQ531VQy7+lzFYHZhZ/lMySjH1fHvEaCmZsSWuJc4osBaNGC0tF6Q32DqG8OSYHfGdOHsXX/47DTimYnQses3JX8R4os9U/ctjj5v/qyzetx4svYxf+gGpuGu//Aj2lQ5Q=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '7d3d36656aa6a66d8bd9a1c856c8049b'}
+============================================================
+
+--- CHUNK 27 (967 chars) ---
+AP Krugman Economics Section 14 Appendix Problems Solutions
+
+AP Krugman Microeconomics Section 9 Appendix Problems Solutions
+
+r
+
+1. a. You value a plum at $10,000: you would be willing to pay any price up to $10,000 to buy it. The seller values a plum at $8,000: she would be willing to sell her car at any price above $8,000. So there is room for trade: at some price between $8,000 and $10,000, both buyer and seller will want to engage in trade with each other.
+
+b. With probability 0.5 the car you are being offered is worth $10,000 to you. And with probability 0.5 the car you are being offered is worth $4,000 to you. So the expected value to you is (0.5 x $10,000) + (0.5 x $4,000) = $5,000 + $2,000 = $7,000.
+
+c. The most you are willing to pay for a car whose quality you do not know is $7,000. But the seller who knows she has a plum will only want to sell it for a price upwards of $8,000. So there is no trade, although it would be mutually beneficial.
+
+r
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 10, 'orig_elements': 'eJzFV11v2zYU/SsXRh42NBT4JYkKsIcU2MOwFQjQDMMQFMGVdGUTk0VNoup4Rf/7SMl2s9YYuhTJ3swjHt5LnsNj6e7DilraUufvbb26glVWl1pkBTEkRUwjZswIWTE0panTXFLT6NUlrLbksUaPgfNhVTk31LZDT+M8bnHvJn+/Ibve+IDIXKnAOcA7W/tNRAVPA9o72/nIu7tTXCX8EoSRSfbuEo5jqUzC41ik3CTqDLAwArIa96OnbdzJjX2g9m2PFa0+hgc1eaq8dd191eI43veDK8M0nhjFRRYmNLYlv+8pcl+/uYmbtOM9PfgBK0/z4fQ4eIvtat5Lt55wPW/4bkXdehWr9wG576ZtSUPABY+FfVgikq9v4OdhWm+xgx8r17mtrUZ4u/QEQsN131NX2we4CZ0FTcJD107x6RgLHlu7tb6dd/S5cikaREozViHmTJtaMFRcsipTPNNGCOTmGZWTSRGEyYtELcrNY6VUYhahTJ6kZ4CF8WTlUv2yyr2x1eDoC/mKb1avrBRKWaSsqrOCaWE0Q12FayhVJlIsM6H4s6mX5VEsIY1exDmMtRCJnMXSaSLOAQvjX9U7I85/V2B4fIa/dlXY8doN9i+qb+OMM+dpspR4HXIsy7OSaSUFKwqjWGqkREOIqItnvA0iCcbUuTzehnlsxNH8RaqS/AywMJ52GwopZf4Ct0EkgAn87iZ4j+1EgNC30xbQw4Xgl5zzKwjHAzs3tTWUBDvbtrZbg3fQ4x6w20M/2Ipg6iN2IMWf5bQH6xO43RCM1LY0LCXGxzXMUmIMc86ViDzYBGaFQ5z/qRyW7j0d+Em4neDDNAI7wuDcFho3QDiimq4ibXRbOvBK8jui7sAMC9bHni+hdH4T2w71In5oOrYDO+x8bCgcaThMsN2yengYKITVBlxsIHns7F/s6H+Ksp8xNKFQRSM4y4qsYpqnipVFlrNG5zk2RqQkxDMamsdEMGm++PUwFoJ/MnB4dA5ZOE+0tNL8JQK+TOC3KEssjKVtrd+H6ml0yOyj6GccohWiy1zTBOPU0Tk7NwTaIwuHmQlcByvsvmU9/Y/lFqsCPfQUd3u4dsvTSPouLv1w7OJ7eHVC9AL8ABfpvOIruJDzj4Dk8z34WvflsgxCkmClLGqmywwZ8rJhVGuhGtNkJcpnjdPZbdok+pinEVDFyWxaxLeJM8hCeqr/pHgB+1VL5G3d6E/W+Cw1Yzrh7J3dxo0Ef044uypOrx10zsMfndtFOxyUhdeTn31zDKWNm6eMc3Ru8BSqc1q5rt2fImvOUOsPRY9hvcOhHoNZz0Zo55Z4uwRs/cZN601c4BTQ28mHhkOJkjpqbBWO6uutRyUqwpKFNDAh+ETBCpFxlhaq0k2OGWL1bNZLi/i3LFWeLh8ch7Eu+PKFEt7K5g+SL4CF8f+/Gb37Gw9CL6Y=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'bb85a46f27b3d66ffe4cdeee71a734ad'}
+============================================================
+
+--- CHUNK 28 (947 chars) ---
+2. a. When you hire an additional worker, there is a 0.5 chance you will get a fast worker and a 0.5 chance you will get a slow worker. So the expected value of your additional revenue is (0.5 x $100) + (0.5 x $50) = $50 + $25 = $75.
+
+b. If you offered to pay $75, you will be able to hire only Sylvia: Fred would not want to work for that wage. That is, you will attract only an adverse selection of slow workers.
+
+c. You prefer to hire a fast worker. With a fast worker you earn $100 - $80 = $20 per day, but only earn $50 - $40 = $10 per day with a slow worker. Any compensation scheme that pays a worker $80 per day if at least 10 chairs are produced, but less than $40 per day if less than 10 chairs are produced, will guarantee that only a fast worker will choose to work for you.
+
+© BFW Publishers
+
+Solutions to Section 14A/8 A Problems
+
+413
+
+413
+
+3. Following are Isabella's indifference curve maps for each of the situations described.
+
+a
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 10, 'orig_elements': 'eJy9V21r5DYQ/itiOWhLI1evlnzQD9cPgYO2BHLlKOkRZGl219SxF8tOsj363zuyNrlNuj3Cls2nXT2a0cs8j2bGV58X0MINdON1ExZvycIzLZyxgta+rKlibEnrECRlTGvljZba8sUZWdzA6IIbHfp8Xvi+H0LTuRHiPG7dtp/G6zU0q/WIiDBSos8OvmvCuE4oZxrRTd90Y/K7upJMFPaMcC1lIT+dkUfAGFuwBPBKVYU8iGQnhBZxG0e4Sbe5aO6hvdw4D4u/cSLACH5s+u7aty7G683Q12jGikorm064bFoYtxtIvj/9cpEu2sRruB8H50eYA7Rxw9i4djHfp1tNbjVf+moB3WqRdt8gct1NNzUMiHOWNh5xieQsCuIK8nENHcFQkHUzAHEdcSE06ViuJXf98CcMZ2RcA841kTg8niZ+7ToPs9Nd07ZkBSPOLF0cdx64TPiqbWz7u51tQS77tAGB+w2ke5Fb105A+mVyGvaPM8AtdNN8kG/T2vfkDWfsO/L941Dj6Mf0g9gbodN/o4sUnodA/tzE8X0iBCPxXG7AgjRClLTiZaDKMBReyR3VIVhRGguSwwnlJguDyrGCF2WWWwaq0hY2i4vLQh9EstORclOKmVeQW12Q9zOnSO0S9RTI2JON2yaKzr4IpEYR1i2kyVmRfdduyeW2vW3cW3Ke3O76qQ2k61FtrhuTYVISWfYD6sgldAUF+ZD+NnFvZTfOV8krzkK/hSECiaiCOTJJc3vKjC8WTjDcqsqjXBjnVFkuac3Lijq1dGXQtQQlTy0cwbjKqngApOY5cXFbVUkmB5DsdKRweCVeI0/5gvyOHG4GQNk86uJJwsE01ozrZ0koEQ9u6OYsQSh5Y1lKCIKRDc4Gtz0j9bSTQ7bTs5mazfijGapnXvtJ0nrXbYnvbzbQRTdrJ/o1SiIrEFWdcuXuHGnfh6WaJcqQtJCOiTtgdmwGNMX7YFjD5CHkQ7UQY1qrm4+z5/1l4r/cc5qd3ICPA3YHypJ/Ep3ZzK/7PsKTJ4RRe7HuK+cxSYaaCqYcxTyiqBVqicMatLRYuU19Qt2rokIJa2seEmYGSl7maqzLqmCHgOxybLrEfV5B9X9MjLmK/HT+kVxMddtErMFxn5jzvh/R71A6qkQlfM2oMEtJlQgldculoMCh1LY2TjlzMlowEaYuCWOsc9AfgFKoXZMkK515+ReSnY5tm0qhX4GYy76d0v4xPZvLXeXg6t0PlrwjF3ga5OKFRJXB1armQI21WDeYZdS6ylPhbVDCiFqL0zUc3OIryA9o9zwekZKrx36W757QcyR7HVs5sES+AlWKy5cRIZRntTUVxVYeqArWYAEPgpZGMWEUd17p0xFRYcEWKaSVeQjyDikly7kNez5R8INI9voqEQfi/L+D+Vvn8earfmj+gvAh2RwqEEvluBeMBuU0Va5i2FFX2B1ZZ70EX3ofjoirKA/ElVX8WVx1OTfQBn/miOWxwAjmJqiUapbycyB7HCdto6Tgp5E232dDFuS8b7EjabrV3AC8j66GtnXfRNJ0oZlb7PTl5afhFsiN28S5vIPz69Tnpi+u2IyTy6ksQPRDU0N4ce13dW1BYZGxFgRVdQm0AmFogMpCbYLH4nNCam36zBYWK36mdh5L/BxSuw+j9Daej7P9ccSWTOryFYh1+wT86oYBGbqF/MA+/QN9TyYj', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'ba57e0aca6367878841ecb0a54787b86'}
+============================================================
+
+--- CHUNK 29 (582 chars) ---
+Quantity of cars ....... ·.·····L-I 3 f--•••••• • 3 .. . .. .. 12 2 r-.-' •• " •• II 1 i-.... •••••• i i i 12 8 4 0 Quantity of tires
+
+b.
+
+Quantity of VaUey Dew 3 2 1 o 6 4 Quantity of cola
+
+414
+
+414
+
+Section 14A/8A: Enrichment Modules
+
+© BFW Publishers
+
+c.
+
+Quantity of income ~"'---I2 Quantity of leisure
+
+d.
+
+3 - ... : : :J ... ~~ ----;: Quantity of skis 2 - ... 1 _ ... .. ---------- 11 . . I 1 1 I I I o 345 6 1 2 Quantity of bindings
+
+e.
+
+Quantity of soda ~---------- 13 ~----------~ ~-----------4 Quantity of water
+
+© BFW Publishers
+
+Solutions to Section 14A/SA Problems
+
+415
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 11, 'orig_elements': 'eJy9WNlu20YU/RVCL3nJsLPc2dynBG0AFw3gwk37YAfGbLSJyqIhUUjcov723uFQrmQrgaKatTMK53iuKJ5zV138NUvzdJsW/VUbZyfVLMbIkjeRUGMFgUAbYikEQhMz1HnwUjWz19XsNvUuut6hzV+z0HXL2C5cn1bDfu7uu3V/dZPa65seEa65QpsR/tTG/iaj1DJE77p20We7iwumTI0HhZG1+vi62uwZpVDbAWCS1WIfUmwQma3uV326zc9y1n5O8/M7F9Lsb/xDTH0KfdstrsLcrVZXd8vO4zFaW8G5xgNNO0/9/V3Ktm/fn82Gj7y4Xrvr4bkuZmlxPcu3uEPkarG+9WmJOGP53fv0OT/q7Je1W/Rtf19VVddUwS1XeFWXn+pyTanXdfnvS68/k1M0EVXVEHK55pTzr7/i4ccLMdysqoeXGjcso7iWpCavNgfH45ez6sn7nOY7s6pqyfhxD7p7u7WG+xlcgIvieuQD2ejbZUI6MrEbnk9vkcssz1NHBA1JRyqId0ITSEERT5knjZbO6mS8sGY6R9S6ltnNLK3l4GYjwISqdQY4MzXfBxSTrzrii/iZr7dp/LAI+NDX3bL9M8Vf85E9lGqauPZIpGOSE5CpIc4HSWQSygdI0dowIaUwxDKzooZCaQEME7UZQ1nWsBcpRkdGN7cALx7d6M1V9Zv7kO6rH9KnMfJ4iZ6qw6XGGNi2CN3cHej+HjABh0SJdcETsEYRw2ki3gQXAxitlJowD/Ps7VxqWZx7AyhMu6p4O7r9PqCYHKeUkVqL/Uq1qytUYOlCnwZ67tyyb938OBGBwbYG77qux1N7REiBU3wgQZLNOchZSrwUDQnOGAdR8GbiHASZUaxsjzkoA4rZUvu4MEWVp0AxmT4HPSHyoCSknOEN5QKTkAMCPOJVaBiymzy31AqkejJONWU1G7xUFcY2gKK65gPJXMia7kWK0bGujSL9D659Xm5fMXjznXlzUv24WLbhJtNfve/ieo5vdZDnR8esAsqI0kZnlRhWX+oJAxmpDlRLNqHnSyaLTIbWbNBggyhqa1GCAf+m9yLF6kidgLMvFIsX1Sl3es5Wb9/9Xp2t/bxd3aTlgdJIZ8Bx6ohNTcQOXWtikpckWM9CCsxTH4+QBugeaRiVu9IIjArUIdfjISeN+5x46LCHUiie7Mv5SRIS36Y1fHtTJIMEnHc0kZRhFjIqEicVjj4KJPBggpbHFNoD6WR0oEubUmfHvaVq9GmB3r0PKBZH+jhnjL0U47vjTrsI3W3C64fL2StCyCl/0gHNU7taL9OBTRCTWlglJKFRGdRGOGKaQInBR6DcOfANndDVVW7oMQ2WDmfc4+hpS3cqwOS68AwoFtM7e/x2Z/dSCswdQKJllECMnhgqFEmJ0iSCcrbxExIqcn5GXGwYLYDCSaD0+9yWgf85UoyOdXgp+Uuxjn0+yfN8dZJ/fxouHx4qdHby/cm2tw8BsfqjXZXBoBgN88HVcIn/yOMPloc8uY9rnMKHdbq18lwhQI7TBRsnju348u0Cpbo+dMiOOmAz1hiiEg6DIKIkjlssLVoGp4KIABMmv7GW4PHSaT0CZpypN9XjOTCYTB9i6dtDrDEN8KZJBOMJBzejgTgBDVLqeZIMR2x1TH97KKVyiCgjxiF7BDhIWgoyFpBSoZ8ho9GRIUaxME1TU1ZddLmibAeL2AUedrfk6dz9CYldHhgSqvHRA/ck0TyfSBmx3DAgGjTgPA6o4pTtFc1fZnKJ/VJx+BFQqM0wsMjyRdRzoJgcqZ4GY6bpeneE/Q9dL9dJaSkVCTxh5WqiIg4bXhKoxxZYxsbw6SqXASjziOVlHtkAWYUSRIBBxPcixehIYQxMNY7sCHPezdf5/quq76rtGfL8TXWGHwalOFAnk5wyTqIwXCYCTAbUiWniMK6UZMonfczgeJhODCN1FIqNX1xtkH91sSBzR7EHKVZHKiW4mWjA31EKGd0nxMd/AOBFXmQ=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': 'f99a2b23283faecfea8d160fe97e925e'}
+============================================================
+
+--- CHUNK 30 (505 chars) ---
+4. a. Because bundle B has more movie tickets and more cafeteria meals than bundle A, it is preferred. The reason is that more is better.
+
+b. Compared to bundle A, bundle B has the same number of cafeteria meals but more movie tickets. Again, because more is better, bundle B is preferred.
+
+c. Bundle A has more videos than bundle B, but bundle B has more bags of chips than bundle A. The "more is better" principle does not help us rank these two bundles. Without more information, they cannot be ranked.
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 13, 'orig_elements': 'eJy9lE1r3DAQhv+K8HktLH/KuWV7KrQQaKGHTVhG1ngtYkvG0iZZQv97JXuXZpMtlEByMcyreUca6fFsniPscUDttkpGVyRiedK0RVHGrciKOM8A45qxKq4zSKCWWYGYRCsSDehAggPveY4aYyapNDi0c9zDwezdtkO165xX0iotvecoPyrpuqAmnHt1NEq74NtsWFnQfOXTM5rdrcgpzllJ0zmukpLWF4TF4ZXIHqzDIXRyo56w/zFCg9FvvyDRYeOU0dumB2u342SET0toXbAk8wmt6tEdRgze9feb0KSyW3xyEzQO58sZYXIK+mjuRe/2sJsb3kSod1HYffTKVu8HgZPXWRY2dr5EMOeUACVrbGBvkYi9lj2SNenAksFM6D8PColTzT06S0DLRW6g9SefFJABobfEdaBP7usVUY4oS8YJW5wmlJT87JBMCNbosOCz3VLHBwKdr0TD8U+NflPWfQ0X5k/6GgUhiirJK4iLtOBxjlzGPK143AgEEEKCTPkHorC8dFlRtqAwx2VSH9GoGKPpBWFxvBeFPCk/AQVByRcz+BIoiTMvXvOMCudf0sKAZKlCTPsGBrF3F+Ch5HoHSvtyR9jOAXixzRk6/8sFb7JSMJ7ERctZnDPwXDDRxm1Wp01W1AlnH8lFFUZCWdS0WriYY15XlC8YVIxmF4TF8T4ueJ4U+Sdw0fj5cGTh71x4UBLN+X+/Xs0v/3aGCNjZmZNOja9GxTIZbqNzFm4jD4DSjRp9jjRoiTaOdNiPZG/JBPo+YOgRco8nTj1ev5TrzAk9pVszDRDubRWSD55SHaoInAv8k6y7PyMRA8Q=', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '53e4b1e6b1dcd25796124e108d9e0d43'}
+============================================================
+
+--- CHUNK 31 (753 chars) ---
+d. Since we know that you are indifferent between bundle A and bundle B, we know that they lie on the same indifference curve. Note in the accompanying diagram that bundle C lies on a straight line between bundles A and B. Since we know that indifference curves for ordinary goods are convex (they get flatter as we move along them to the right), bundle C has to be on a higher indifference curve than bundle A (and bundle B). Since the number of goods in bundle C is exactly the average of the numbers in bundles A and B, sometimes this property of indifference curves is known as "averages are preferred to extremes."
+
+Quantity of breakfasts 10 ....... . 7 4 I o 10 4 7 Quantity of dinners
+
+™
+
+416
+
+Section 14A18A: Enrichment Modules
+
+© BFW Publishers
+
+METADATA: {'source': 'docs/Section8a.pdf', 'filetype': 'application/pdf', 'languages': ['eng'], 'page_number': 13, 'orig_elements': 'eJy9Vm1v2zYQ/iuEPrWAJYgUJVL9lgwrEGwdMmQvH5LCoMiTTVQmDYlO4hX97ztKduM22oAFcwIosB7eHe+e547U7ecEOtiAC0trknckEQCsKKVKdSPqlKu8TeuyqtK8ZG3NRMELMMmCJBsIyqig0Odzor3vjXUqwDC+d2rvd2G5BrtaB0SYYBX6HOAHa8I6ormUiG69dSH63d5SkWf5gtCcF5n4uCBfgaoSmRwBmbNMziKTE0LJsB8CbGI11/YRuput0pB8wQUDAXSw3i11p4Zhue19g2Z5VtNcxFxa20HYbyH6Xn64joXaYQmPoVc6wEjQVvXBqi4Z63GrnVqNRd8m4FZJ3H2LyNLtNg30iNMibhwwRHQ2GbmxTgN5APLJ+QcS1ioQZIWoHoh1xrYt9KgGaSA8ADjS7JzpgFwQ5czx5XLxrX9Yw550Foh38TcZ1OY0GG6nd/09ZOQXH+LCaKS09putcnvrVsRYterVZgp32OWHGHKIMRUZkICoJUIOvsttOCR3OVvb8zQG0vqeTA3T78nKezOM5Wvv7uGRvBnLWUEgbadCgJ6oIcbc+HvMuvOYLlpgrn6so495vV08Zb1Gc1xrYEp9jesY43keMb8Tft+cEvz2WEvcYdKS+PaQq3VPm9mBwCP2RrefSL2HHuWPtk+eJx5fuVqQweMI2Q1CYY1RsBW30Id9dJ3jDE0iqS6ScZcc9pl42/aAxj2YWHbsVZznIbtLYosem/lnO4SrOBTYjd+PPBe8KEBCmiuuUg61Thumy1TzQiqoaN1Ac8aRpxnF6RVMHkd+BBgvWFaOAKVlVs0hB6cXjryo6vmJ/+9j/etOuWAn8QhpelCfWjWEAV9ojv+y6Y9k+Fvgw/G5wscfDfhh4TQQsuti85BTHa82mMaciKpq2rwFSKlu8dzOjU5l28hUUQkAipW8lucTsRZFPKdZUYssHyU6IpyzCWF5If8Bmbz+Vcb/Raa7HaOMndL5u9NY/Mr39i8wv0WzGWprJZqmgCotqGhSroVMawM4H6IE3gojdVWdj9qqzrBPWSnqjI7MHoAqrzI20shYJuaAyeWF05HzUrzChchpdarHe483VD8ngpQlDiyYtKzLIuVCy1QWFNLWtIYKQxuVn08EQfPxBIqMjh8dR6DK5eFIwraOXyEzyOT0MhmkqPLiFWS4mbYnlF9QefGO/Oh6q9eRfvLBmx1eXN+q1G9+gv3wh+p2uDKjFm1bRVtdp6oEvFJo2aQKmEkbbpQuNJMt5+cbmZJV4xVSyuJwGh2RitKDOkLW09Q8QyavF44NF9UryHW3y3NVk8v3f5LrXdPZAb9whrk5+vg3B7KdwA==', 'filename': 'Section8a.pdf', 'category': 'CompositeElement', 'element_id': '507c5f830d210584e432912bc950ae10'}
+============================================================
+
