@@ -7,10 +7,10 @@ db/
 
 # Documents (keep company docs private)
 docs/
-/Users/selirocker/rag/cached_documents.pkl
-/Users/selirocker/rag/cached_elements.pkl
-/Users/selirocker/rag/chunk_inspection1.txt
-/Users/selirocker/rag/elements_inspection2.txt
+cached_documents.pkl
+cached_elements.pkl
+chunk_inspection1.txt
+elements_inspection2.txt
 
 # Python
 __pycache__/
